@@ -4,41 +4,37 @@ import pandas as pd
 from random import randint
 from time import sleep
 from datetime import datetime
-
+from config import start_url, header
+from logger_function import create_logger
+import logging
 
 print("start: ", datetime.now())
-start_url = "https://carroya-pro-portal-api.avaldigitallabs.com/find-vehicle-detail/"
-
-header = {
-    "accept": "application/json, text/plain, */*",
-    "accept-encoding": "gzip, deflate, br",
-    "accept-language": "en-US,en;q=0.9",
-    "origin": "https://www.carroya.com",
-    "referer": "https://www.carroya.com/",
-    "sec-ch-ua": '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": '"Windows"',
-    "sec-fetch-dest": "empty",
-    "sec-fetch-mode": "cors",
-    "sec-fetch-site": "cross-site",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
-    "x-client-id": "1427838632.1652335850",
-}
+scrape_logger = create_logger("carroya")
 
 
 def scrap_car_id(page_num):
-    url = "https://carroya-pro-portal-api.avaldigitallabs.com/find-filters"
-    payload = json.dumps(
-        {"seoArray": [], "params": {"page": str(page_num), "status": "usado"}}
-    )
-    headers = {"Content-Type": "text/plain"}
-    response = requests.request("POST", url, headers=headers, data=payload)
-    res_data = response.json()
-    car_ids = [x["id"] for x in res_data["results"]["superHighlights"]]
-    return car_ids
+    """
+    This function gets all car ids from given page number
+    """
+    try:
+        url = "https://carroya-pro-portal-api.avaldigitallabs.com/find-filters"
+        payload = json.dumps(
+            {"seoArray": [], "params": {"page": str(page_num), "status": "usado"}}
+        )
+        headers = {"Content-Type": "text/plain"}
+        response = requests.request("POST", url, headers=headers, data=payload).json()
+        car_ids = [x["id"] for x in response["results"]["superHighlights"]]
+        scrape_logger.info(f"Scraped {len(car_ids)} car ids for page no {page_num}")
+        return car_ids
+    except:
+        scrape_logger.exception("Error getting car id for page: ", page_num)
+        return []
 
 
 def scraper(car_id_list):
+    """
+    This function scraps car data for each card id on a page
+    """
     car_data_list = []
     for car_id in car_id_list:
         sleep(randint(3, 8))
@@ -51,6 +47,7 @@ def scraper(car_id_list):
                 "Condition": car_data["data"]["status"],
                 "Version": car_data["data"]["version"],
                 "Kilometers": car_data["data"]["kilometers"],
+                "Price": car_data["data"]["price"],
                 "Year": car_data["data"]["year"],
                 "City": car_data["data"]["city"],
                 "Color": car_data["data"]["color"],
@@ -61,9 +58,11 @@ def scraper(car_id_list):
                 "Seller comment": car_data["data"]["comments"],
                 "Main features": car_data["data"]["main-features"],
                 "Technical details": car_data["data"]["technical_sheet"],
+                "Url": car_data["data"]["detail"][:-3],
             }
             car_data_list.append(car_detail)
         except:
+            scrape_logger.exception("No car details for: ", car_id)
             car_detail = {"Car id": str(car_id)}
             car_data_list.append(car_detail)
     return car_data_list
@@ -81,9 +80,12 @@ for page in range(1, 14):
         else:
             continue
     except:
+        scrape_logger.exception("Exception occured")
         pass
 
 # Create dataframe from all cars data
 car_df = pd.DataFrame(all_car_data)
 car_df.to_csv("car_data_for_208.csv")
 print("end: ", datetime.now())
+
+logging.shutdown()
