@@ -1,0 +1,76 @@
+2022-05-23 11:42:01,769 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1108865847
+2022-05-23 11:42:01,769 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115593287
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115595865
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115641191
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653710
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653703
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653700
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653698
+2022-05-23 11:42:01,770 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653688
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653687
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653667
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653628
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653623
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653583
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653582
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653560
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653558
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653532
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653518
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653512
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115440895
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1114244022
+2022-05-23 11:42:01,771 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1114725945
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115629608
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653492
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653489
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653484
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653478
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1114877952
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653474
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653470
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653459
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653435
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - ERROR - error in fetching car data for car: 1115653433
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 41, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653417
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115254869
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653408
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653407
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1109946343
+2022-05-23 11:42:01,772 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115288337

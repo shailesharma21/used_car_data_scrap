@@ -1,0 +1,13 @@
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115389454
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115032004
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115346366
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115427608
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653710
+2022-05-23 11:38:09,470 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115653703
+2022-05-23 11:38:09,470 - olx_carros - <module> - ERROR - Exception occured
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 60, in <module>
+    out_car_data = olx_data_scrap(page)
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 40, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'

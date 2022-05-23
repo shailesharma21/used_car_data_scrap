@@ -4,7 +4,7 @@ import pandas as pd
 from random import randint
 from time import sleep
 from datetime import datetime
-from config import start_url, header
+from config_carroya import start_url, header
 from logger_function import create_logger
 import logging
 
@@ -43,9 +43,11 @@ def scraper(car_id_list):
             car_data = json.loads(url_response.text)
             car_detail = {
                 "Car id": car_data["data"]["id"],
-                "Brand": car_data["data"]["title"],
                 "Condition": car_data["data"]["status"],
+                "Brand": car_data["data"]["brand"],
+                "Model": car_data["data"]["model"],
                 "Version": car_data["data"]["version"],
+                "Published date": car_data["data"]["fechapublicacion"].split("T")[0],
                 "Kilometers": car_data["data"]["kilometers"],
                 "Price": car_data["data"]["price"],
                 "Year": car_data["data"]["year"],
@@ -56,13 +58,65 @@ def scraper(car_id_list):
                 "Fuel": car_data["data"]["fuel"],
                 "Accessories": car_data["data"]["accessories"],
                 "Seller comment": car_data["data"]["comments"],
-                "Main features": car_data["data"]["main-features"],
+                car_data["data"]["main-features"][0]["name"]: car_data["data"][
+                    "main-features"
+                ][0]["description"],
+                car_data["data"]["main-features"][1]["name"]: car_data["data"][
+                    "main-features"
+                ][1]["description"],
+                car_data["data"]["main-features"][2]["name"]: car_data["data"][
+                    "main-features"
+                ][2]["description"],
+                car_data["data"]["main-features"][3]["name"]: car_data["data"][
+                    "main-features"
+                ][3]["description"],
+                car_data["data"]["main-features"][4]["name"]: car_data["data"][
+                    "main-features"
+                ][4]["description"],
+                car_data["data"]["main-features"][5]["name"]: car_data["data"][
+                    "main-features"
+                ][5]["description"],
+                car_data["data"]["main-features"][6]["name"]: car_data["data"][
+                    "main-features"
+                ][6]["description"],
+                car_data["data"]["main-features"][7]["name"]: car_data["data"][
+                    "main-features"
+                ][7]["description"],
+                car_data["data"]["main-features"][8]["name"]: car_data["data"][
+                    "main-features"
+                ][8]["description"],
+                car_data["data"]["main-features"][9]["name"]: car_data["data"][
+                    "main-features"
+                ][9]["description"],
+                car_data["data"]["main-features"][10]["name"]: car_data["data"][
+                    "main-features"
+                ][10]["description"],
+                car_data["data"]["main-features"][11]["name"]: car_data["data"][
+                    "main-features"
+                ][11]["description"],
+                car_data["data"]["main-features"][12]["name"]: car_data["data"][
+                    "main-features"
+                ][12]["description"],
                 "Technical details": car_data["data"]["technical_sheet"],
                 "Url": car_data["data"]["detail"][:-3],
             }
+            if car_data["data"]["version"]:
+                car_drive_train = car_data["data"]["version"].lower()
+                drive_train_types = ["4x4", "4x2"]
+                for d_train in drive_train_types:
+                    if d_train in car_drive_train:
+                        car_detail["Drive train"] = d_train
+            if len(car_data["data"]["technical_sheet"]):
+                car_detail[
+                    car_data["data"]["technical_sheet"][0]["autopart"]
+                ] = car_data["data"]["technical_sheet"][0]["specifications"]
+                car_detail[
+                    car_data["data"]["technical_sheet"][1]["autopart"]
+                ] = car_data["data"]["technical_sheet"][1]["specifications"]
             car_data_list.append(car_detail)
+            scrape_logger.info(f"Scraped data for {car_id}")
         except:
-            scrape_logger.exception("No car details for: ", car_id)
+            scrape_logger.exception(f"No car details for:{car_id}")
             car_detail = {"Car id": str(car_id)}
             car_data_list.append(car_detail)
     return car_data_list
@@ -81,11 +135,10 @@ for page in range(1, 14):
             continue
     except:
         scrape_logger.exception("Exception occured")
-        pass
 
 # Create dataframe from all cars data
 car_df = pd.DataFrame(all_car_data)
-car_df.to_csv("car_data_for_208.csv")
+car_df.to_csv("car_data_for_208_with_features.csv")
 print("end: ", datetime.now())
 
 logging.shutdown()

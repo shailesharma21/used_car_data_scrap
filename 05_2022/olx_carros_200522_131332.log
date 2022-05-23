@@ -1,0 +1,17 @@
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1114456888
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115578473
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115622114
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115141120
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624760
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624749
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624721
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624665
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624658
+2022-05-20 13:13:40,793 - olx_carros - olx_data_scrap - INFO - Data scraped for car id: 1115624657
+2022-05-20 13:13:40,793 - olx_carros - <module> - ERROR - Exception occured
+Traceback (most recent call last):
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 60, in <module>
+    out_car_data = olx_data_scrap(page)
+  File "c:\Users\shailesh.sharma\Desktop\Used_Car_Pricing\used_car_data_scrap\olx_carros.py", line 40, in olx_data_scrap
+    "City": raw_data["locations_resolved"]["SUBLOCALITY_LEVEL_1_name"]
+KeyError: 'SUBLOCALITY_LEVEL_1_name'

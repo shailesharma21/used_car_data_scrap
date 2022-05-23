@@ -1,0 +1,778 @@
+,Car id,Brand info,Price,City,Description,make,model,variant,year,mileage,condition,fuel,color,vehicletransmission,doors,Drive train
+0,1115169027,Vw Golf Gti Turbo 2.0 Mod 2020,$ 124.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301662', 'SUBLOCALITY_LEVEL_1_name': 'Cervantes'}","• 23.000 kms
+• Aire Acondicionado Dual 
+• Dirección Hidráulica
+• Cojineria En Cuero 
+• Vidrios Eléctricos 
+• Espejos Eléctricos 
+• Rines de Lujo 
+• Exploradoras 
+• Airbags
+• Frenos ABS 
+• Controles de Radio en Timón 
+• Velocidad Crucero 
+• Sunroof
+• Asistencia de Arranque en Pendiente 
+• Sensores de Proximidad 
+• Sensores de Lluvia 
+• Sensores de Luces 
+• Levas en Timón 
+• Cámara de Reversa",VOLKSWAGEN,GOLF,GTI Performance AT 2.0L T 230HP CT TC RA17,2020,23.000 km,Usado,Gasolina,Gris,Automática Secuencial,5,
+1,1115397100,Nissan Tiida Premium 2013,$ 34.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303945', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Militar'}","GRAN APROBATÓN CRÉDITO DE VEHÍCULO
+Fácil Financiación para empleados o independientes NO REPORTADOS NO, inicial desde $3.000.000 y credito hasta en 48 meses",NISSAN,TIIDA HATCHBACK,Premium MT 1.8L 2AB ABS CT 4X2,2013,99.000 km,Usado,Gasolina,Blanco,Mecánica,5,4x2
+2,1115379688,CHEVROLET CAPTIVA SPORT,$ 33.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",CHEVROLET,CAPTIVA,Sport AT 3.0L CT 5P MEX 4X2,2011,128.000 km,Usado,Gasolina,Gris,Automática,5,4x2
+3,1115427608,MITSUBISHI L200 Sportero 2016,$ 96.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303883', 'SUBLOCALITY_LEVEL_1_name': 'San Fernando Nuevo'}","Motor 2.5 , caja mecánica, 4x4 
+Diesel  
+Version High Power  , Full Equipo 
+Excelente Estado",MITSUBISHI,L200 SPORTERO,FL High Power AT 2.5L TD 176HP 2AB ABS 4X4,2016,68.000 km,Usado,Diesel,Blanco,Mecánica,4,4x4
+4,1115653760,Se vende Spark Gt,$ 32.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301351', 'SUBLOCALITY_LEVEL_1_name': 'Los Cerros El Vergel'}","Se vende Spark Gt LTZ en muy buen estado segundo dueño con papeles hasta el otro año, listo para traspaso",CHEVROLET,Spark GT,LTZ 1.2L 1AB,2015,105.400 km,Usado,Gasolina,Gris,Mecánica,5,
+5,1115653759,Mazda 6 all new modelo 2011,$ 40.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007019', 'ADMIN_LEVEL_1_name': 'Cauca', 'ADMIN_LEVEL_3_id': '4069894', 'ADMIN_LEVEL_3_name': 'Popayán', 'SUBLOCALITY_LEVEL_1_id': '5308270', 'SUBLOCALITY_LEVEL_1_name': 'La Capitana'}","Vehículo en excelente estado, cojineria en cuero, eléctrica, sunroof, triptonico con levas en el timón, luces y plumillas automáticas, mantenimientos al día, soat y tecno hasta noviembre, en excelente estado general.",MAZDA,6,FL L5NA1 TP 2.5L 4X2,2011,77.600 km,Usado,Gasolina,Negro,Automática Secuencial,5,4x2
+6,1115653739,Patineta Volkswagen cabezote y trailer,$ 250.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301567', 'SUBLOCALITY_LEVEL_1_name': 'Los Nogales'}","Patineta Volkswagen modelo 2008, documentos al día, llantas al 90% cabezote y trailer",VOLKSWAGEN,Otros Modelos,Otros,2008,100.000 km,Usado,Diesel,Gris,,,
+7,1115653726,Tracker 2015 NEGOCIABLE,$ 52.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302619', 'SUBLOCALITY_LEVEL_1_name': 'Comuneros'}","Hermosa Chevrolet Tracker modelo 2015 
+En excelentes condiciones 
+Motor de 1.8 Litros 
+140 HP/ 175 Nm de Torque 
+Airbags delanteros 
+Cámara para retroceder con sensores de proximidad 
+Seis parlantes 
+Vidrios eléctricos 
+Seguro anti-niños en puertas trasera 
+Llantas GoodYear a mitad de vida 
+Suspensiones nuevas",CHEVROLET,TRACKER,FL LS 1.8L 6AB,2015,86.000 km,Usado,Gasolina,Rojo,Mecánica,4,
+8,1115653714,Nissan frontier LE xyear la mas full,$ 157.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069083', 'ADMIN_LEVEL_3_name': 'Tuluá'}",Nissan frontier LE xyear la más full como nueva,NISSAN,FRONTIER,NP 300 MT 2.5L TD AA 2AB ABS DC 4X4,2020,27.000 km,Usado,Diesel,Negro,Automática,4,4x4
+9,1115653710,Se vende auto clásico Skoda Octavia modelo 1961.,$ 17.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303877', 'SUBLOCALITY_LEVEL_1_name': 'Salomia'}","Skoda modelo 1961, tiene motor de nissan 1300cc. Dirección hidráulica, frenos de disco, llantas nuevas. Rines de lujo. Papeles al día. Precio negociable",SKODA,OCTAVIA,Otros,1961,60.000 km,Usado,Gasolina,Negro,Mecánica,2,
+10,1115653703,RENAULT CLIO STYLE MODELO 2016,$ 28.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300118', 'ADMIN_LEVEL_3_name': 'Teusaquillo', 'SUBLOCALITY_LEVEL_1_id': '5306973', 'SUBLOCALITY_LEVEL_1_name': 'El Campín'}","MARCA RENAULT 
+MODELO 2016
+CILINDRAJE 1149
+KILOMETRAJE 61600
+AIRE ACONDICIONADO
+EXELENTE ESTADO",RENAULT,CLIO,Otros,2016,61.600 km,Usado,Gasolina,Rojo,Mecánica,5,
+11,1115653700,Chevrolet Sail LS,$ 31.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069083', 'ADMIN_LEVEL_3_name': 'Tuluá'}","Papeles hasta mes 9  e impuestos al día 
+Llantas rines poco uso
+Aire acondicionado
+Pantalla táctil con Cámara de reversa
+Vidrios delanteros electrónicos",CHEVROLET,SAIL,LS MT 1.4L AA 4P 4X2,2017,93.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+12,1115653698,Chevrolet Sail Mod 2014,$ 24.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301711', 'SUBLOCALITY_LEVEL_1_name': 'Milán'}","En muy buen estado, aire acondicionado, vidrios eléctricos delanteros, soat y tecnomecánico hasta octubre, mantenimiento al día, llantas a media vida.",CHEVROLET,SAIL SEDAN,LS 1.4L AA AB,2014,121.700 km,Usado,Gasolina,Gris,Mecánica,4,
+13,1115653688,Se vende kia ion modelo 2012,$ 24.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069082', 'ADMIN_LEVEL_3_name': 'Palmira'}",Se vende kia ion modelo 2012 todo al dia o,KIA,Otros Modelos,Otros,2012,1.234 km,Usado,Gasolina,Gris,Mecánica,4,
+14,1115653687,Renault alaskan como nueva,$ 118.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069083', 'ADMIN_LEVEL_3_name': 'Tuluá'}",Renault Alaskan como nueva la más  full,RENAULT,ALASKAN,Intens AT 2.5L TD 190HP EC AA2Z BT RA18 4X4,2017,57.000 km,Usado,Diesel,Blanco,Automática,4,4x4
+15,1115653667,Vendo hermoso Chevrolet Sonic 1.6 sedan,$ 43.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007015', 'ADMIN_LEVEL_1_name': 'Quindío', 'ADMIN_LEVEL_3_id': '4069804', 'ADMIN_LEVEL_3_name': 'Armenia', 'SUBLOCALITY_LEVEL_1_id': '5301771', 'SUBLOCALITY_LEVEL_1_name': 'Américas'}",Soat y revisión tecnomecanica hasta diciembre asegurable  ...,CHEVROLET,SONIC SEDAN,LT AT 1.6L 4AB ABS CT,2016,65.000 km,Usado,Gasolina,Blanco,Mecánica,5,
+16,1115653628,Se vende chevrolet van N300 negociable,$ 29.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303673', 'SUBLOCALITY_LEVEL_1_name': 'Centenario'}","Chevrolet N300
+Modelo 2014 
+Full equipo 
+A.c 
+Dirección hidráulica 
+Vidrios eléctricos
+Llantas nuevas",CHEVROLET,VAN N300,Move 1.2L DAB 7psj,2014,227.000 km,Usado,Gasolina,Gris,Mecánica,5,
+17,1115653623,Renault oroch Dakar full estado única dueña,$ 62.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069081', 'ADMIN_LEVEL_3_name': 'Cartago'}",Camioneta en buen estado excelente estado listo para traspaso.,RENAULT,DUSTER OROCH,"Dakar / Intens MT 2.0L 4VE DPY 7"" SR DC 4X2",2018,105.000 km,Usado,Gasolina,Blanco,Mecánica,4,4x2
+18,1115653583,Vendo Mazda 2 2018 gran touring LX,$ 65.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302397', 'SUBLOCALITY_LEVEL_1_name': 'Olaya Herrera'}","Mazda 2 
+2018 
+Color machine gray
+gran touring lx 
+64 mil kilómetros 
+Papeles hasta diciembre 
+Placas de bogota",MAZDA,2 HATCHBACK,Grand Touring LX AT 1.5L 6AB TC MA CR RA16,2018,64.000 km,Usado,Gasolina,Otro,Automática,4,
+19,1115653582,Renault logan,$ 23.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069135', 'ADMIN_LEVEL_3_name': 'Sabaneta', 'SUBLOCALITY_LEVEL_1_id': '1000000000002505', 'SUBLOCALITY_LEVEL_1_name': 'Sabaneta'}","Marca: Renault
+Modelo:	Logan
+Año: 2008
+Color:	Gris
+Combustible: Gasolina
+Puertas	4
+Soat: 23-11-2022
+Revisión tecnomecanica: 08 - 01 - 2023",RENAULT,LOGAN,Expression ND MT 1.6L SA 4X2,2008,194.726 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+20,1114651472,CHEVROLET COBALT,$ 34.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",CHEVROLET,COBALT,LTZ MT 1.8L 4P ABS 2AB AA 4X2,2016,99.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+21,1115431899,Mazda cx30 Grand touring lx 4x4 2022,$ 125.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302130', 'SUBLOCALITY_LEVEL_1_name': 'Avenida 30 De Agosto'}",Mazda cx30 Grand touring lx 4x4  2022,MAZDA,CX30,Grand Touring LX AT 2.5L 186HP HUD MA CT TC 2CR RA18 4X4,2022,9.200 km,Usado,Gasolina,Rojo,Automática Secuencial,5,4x4
+22,1115315043,KIA PICANTO 2018,$ 45.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007009', 'ADMIN_LEVEL_1_name': 'Tolima', 'ADMIN_LEVEL_3_id': '4069484', 'ADMIN_LEVEL_3_name': 'Ibagué', 'SUBLOCALITY_LEVEL_1_id': '5303289', 'SUBLOCALITY_LEVEL_1_name': 'Estación'}",KIA PICANTO 2018,KIA,PICANTO,,2018,96.700 km,Usado,Gasolina,Rojo,Mecánica,5,
+23,1114504623,Renault Kwid Outsider,$ 42.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303716', 'SUBLOCALITY_LEVEL_1_name': 'El Limonar'}","Excelente estado, full equipo. Única dueña",RENAULT,KWID,Outsider 1.0L DA VED DPY7 BT RA14,2020,17.000 km,Usado,Gasolina,Blanco,Mecánica,5,
+24,1115653560,Aveo gt limited 2009,$ 22.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069126', 'ADMIN_LEVEL_3_name': 'Rionegro'}","Aveo Gt limited 2009 con llantas nuevas,Aceite nuevo ,Correa nueva, mas ediciones en  mantenimientos 
+Hermoso",CHEVROLET,AVEO COUPE,GTI Limited 1.6L AA CT,2009,104 km,Usado,Gasolina,Blanco,Mecánica,3,
+25,1115653558,Vendo sandero en muy buen estado,$ 39.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301322', 'SUBLOCALITY_LEVEL_1_name': 'La Pilarica'}","Sandero con exploradoras, rines de lujo, pantalla todo original de la renault, uso familiar no trabajado en plataformas, peritaje donde lo desee, vendedor directo.",RENAULT,SANDERO,Expression MT 1.6L 8V AA 4X2,2019,50.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+26,1115653532,Mazda cx30,$ 107.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306856', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Los Sauces'}","Mazda cx30 gran touring 
+Modelo 2022
+10 kilometraje 
+Es sin detalles 
+Soat para mayo 2023
+Impuestos mayo 2023
+Esta lista para traspaso",MAZDA,CX30,Grand Touring AT 2.0L 153HP CT TC SR CR RA18,2022,10 km,Usado,Gasolina,Negro,Automática Secuencial,5,
+27,1115653518,"VENDO CHEVROLET ONIX LTZ 2020 HB, COLOR GRIS EXCELENTE ESTADO",$ 48.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305320', 'SUBLOCALITY_LEVEL_1_name': 'Ciudadela Villa Alsacia'}","VENDO CHEVROLET ONIX LTZ 2020 HB, 1400 C.C. EXCELENTE ESTADO, 32500 KMS, COLOR GRIS, COJINERIA EN CUERO, RINES DE LUJO Y LLANTAS ORIGINALES, VIDRIOS ELECTRICOS, AIRE ACONDICIONADO, EXPLORADORAS ORIGINALES, SENSORES Y CAMARA DE REVERSA, RADIO CON PANTALLA ORIGINAL, CAJA MECANICA, 2 AIRBAG, BLUETOOH.",CHEVROLET,ONIX HATCHBACK,LTZ 1.4L 2AB ABS,2020,32.500 km,Usado,Gasolina,Gris,Mecánica,4,
+28,1115653512,Ven doble cabina 4x4,$ 42.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302396', 'SUBLOCALITY_LEVEL_1_name': 'Obelisco De La Villa'}","Vendo camioneta Ford Ranger doble cabina, 4x4, buen estado, escucho ofertas.",FORD,RANGER,XLT F25D49 2.5L TD COL 4X4,2006,245.000 km,Usado,Gasolina,Azul,Mecánica,4,4x4
+29,1115653492,Mazda 2 touring,$ 65.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007009', 'ADMIN_LEVEL_1_name': 'Tolima', 'ADMIN_LEVEL_3_id': '4069493', 'ADMIN_LEVEL_3_name': 'Fresno'}","Vehículo en perfecto estado, verlo es comprarlo,",MAZDA,2 HATCHBACK,Touring 1.5L 2AB DPY7 RA15,2021,21.500 km,Usado,Gasolina,Blanco,Mecánica,5,
+30,1115653489,foton 2019,$ 63.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301438', 'SUBLOCALITY_LEVEL_1_name': 'Universidad De Antioquia'}",foton 2019 ref.3510,FOTON,Otros Modelos,Otros,2019,63.000 km,Usado,Diesel,Blanco,Mecánica,2,
+31,1115653484,Mazda Allegro 2007   1.3 Excelente Estado,$ 22.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069086', 'ADMIN_LEVEL_3_name': 'Jamundí', 'SUBLOCALITY_LEVEL_1_id': '1000000000002508', 'SUBLOCALITY_LEVEL_1_name': 'Alfaguara'}","Nunca estrellado, papeles al día, todo le funciona, vidrios eléctricos los 4, bloqueo central, cámara reversa, radio con pantalla, asientos en cuero, rines..
+Precio negociable..",MAZDA,ALLEGRO SEDAN,1AAN3M 1.3L AA,2007,186.000 km,Usado,Gasolina,Rojo,Mecánica,4,
+32,1115653478,Volkswagen Jetta europa,$ 41.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300104', 'ADMIN_LEVEL_3_name': 'Barrios Unidos', 'SUBLOCALITY_LEVEL_1_id': '5304034', 'SUBLOCALITY_LEVEL_1_name': 'Rafael Uribe'}","Vendo automóvil modelo 2014 con 35.000 kilómetros, cojinería en cuero original, espejos y vidrios eléctricos, soat para agosto de 2022, revisión técnico mecánica para mayo 31 de 2022. Segundo dueño.",VOLKSWAGEN,JETTA,Europa 2.0L,2014,35.000 km,Usado,Gasolina,Rojo,Mecánica,4,
+33,1114877952,SE VENDE NISSAN FRONTIER NP300 MODELO 2026,$ 115.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300113', 'ADMIN_LEVEL_3_name': 'Puente Aranda', 'SUBLOCALITY_LEVEL_1_id': '5305677', 'SUBLOCALITY_LEVEL_1_name': 'Santa Rita III Sector'}","Se vende Nissan Frontier NP300 modelo 2016 versión XE 4*4 vehículo en óptimas condiciones, frenos ABS, AIRBAG conductor y copiloto,   sillas en tela en excelente estado, mandos en el timón, velocidad crucero, mecánica con 6 velocidades, cuenta con carpa, barra anti volcó de lujo, exploradoras y unidades principales en LED, documentos para febrero y marzo de 2023, llantas a un 80 %, camara de reversa, espejos eléctricos, kilometraje 30.645, placa par, peritaje dónde el comprador lo desee.",NISSAN,FRONTIER,NP 300 LE 2.5L TD 188HP 2AA 2AB ABS EE EC CR BT RA18 4X4,2016,30.650 km,Usado,Diesel,Blanco,Mecánica,4,4x4
+34,1115653474,Renault Scala,$ 25.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300114', 'ADMIN_LEVEL_3_name': 'Rafael Uribe Uribe', 'SUBLOCALITY_LEVEL_1_id': '5305702', 'SUBLOCALITY_LEVEL_1_name': 'Bosques Del Country'}","Full equipo, bien cuidado, llantas en buen estado, papales al día, tercer dueño.",RENAULT,SCALA,MT 1.6L AA EE 4VE 4X2,2011,58.000 km,Usado,Gasolina,Vinotinto,Mecánica,5,4x2
+35,1115653470,Se vende renault 6,$ 3.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007010', 'ADMIN_LEVEL_1_name': 'Nariño', 'ADMIN_LEVEL_3_id': '4069533', 'ADMIN_LEVEL_3_name': 'Ipiales'}",Renault 6 targeta y tras paso avierto bateria nueva motor 1100 cc el precio es negociable,RENAULT,R6,Otros,1976,0 km,Usado,Gasolina,Azul,Mecánica,4,
+36,1115653459,Vendo camioneta cautiva 7 puestos,$ 110.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300116', 'ADMIN_LEVEL_3_name': 'Santa Fé', 'SUBLOCALITY_LEVEL_1_id': '5306140', 'SUBLOCALITY_LEVEL_1_name': 'Santa Inés'}",Camioneta Chevrolet cautiva 7 puestos con  4000 kilómetros,CHEVROLET,CAPTIVA,PREMIER 1.5L T AT CT TC SE 7psj 5P 4X2,2022,4.000 km,Usado,,Negro,Automática Secuencial,5,4x2
+37,1115653435,Vendo Camioneta Chevrolet Luv 1600,$ 14.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304920', 'SUBLOCALITY_LEVEL_1_name': 'Las Palmas'}","Camioneta Chevrolet Luv 1600 Modelo 83, excelente estado, documentación al día.",CHEVROLET,LUV,Otros,1983,400.000 km,Usado,,Verde,,2,
+38,1115653433,Vendo o cambio toyota prado sumo 2001,$ 49.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069080', 'ADMIN_LEVEL_3_name': 'Buga'}",Vendo o permuto 2001 Perfecto estado muy bien tenida rines 20 buena de la mina lista para traspaso anda muy bien,TOYOTA,PRADO SUMO,EGO MT 2.7L 150HP 3P 4X4,2001,160.000 km,Usado,Gasolina,Verde,Mecánica,3,4x4
+39,1115653417,Vehiculo ford fiesta se mecanico modelo 2016,$ 40.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069123', 'ADMIN_LEVEL_3_name': 'Envigado', 'SUBLOCALITY_LEVEL_1_id': '5301090', 'SUBLOCALITY_LEVEL_1_name': 'El Trianón'}","Certificado de mantenimiento de 80000km , frenos nuevos , llantas nuevas , amortiguadores nuevos , correa , patin y soportes de motor nuevos según manual de propietario.",FORD,FIESTA SEDAN,1.6L RA16,2016,81.500 km,Usado,Gasolina,Gris,Mecánica,5,
+40,1115431976,Toyota Corolla cross SEG hybrido 2022,$ 131.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302130', 'SUBLOCALITY_LEVEL_1_name': 'Avenida 30 De Agosto'}",TOYOTA Corolla cross SEG hybrido 2022 cojinería cuero pantalla frontal camara de reversa llantas nuevas full único dueño,TOYOTA,COROLLA HIBRIDO,SE-G AT 1.8L 168HP HBD 7AB ABS SE CT RA17,2022,26.200 km,Usado,Híbrido,Blanco,Automática Secuencial,5,
+41,1112528565,VOLKSWAGEN SAVEIRO 2018 MECANICO...,$ 41.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007005', 'ADMIN_LEVEL_1_name': 'Norte de Santander', 'ADMIN_LEVEL_3_id': '4069313', 'ADMIN_LEVEL_3_name': 'Cúcuta', 'SUBLOCALITY_LEVEL_1_id': '5307616', 'SUBLOCALITY_LEVEL_1_name': 'Lleras Restrepo'}","MARCA: VOLKSWAGEN 
+VERSIÓN: SAVEIRO 
+MODELO: 2018
+MOTOR: 1.6 L, 4 cilindros, 16 válvulas
+KILOMETRAJE: 87.400 Kms
+TRANSMISION: Mecánico  
+COLOR: Plata Sirius Metalico 
+CARROCERÍA: PICK UP 
+COMBUSTIBLE: Gasolina
+DIRECCIÓN: Hidráulica
+TIPO DE FRENO: Discos delanteros ventilados de tambor 
+
+INTERIOR:
+• vidrios eléctricos
+• Retrovisores eléctricos  
+• Bloqueo de vidrios y puertas
+• Cojinería en vinil cuero color gris original de fábrica, asientos del conductor regulable en altura
+• Bolsas de aire frontales
+• Volante forrado en cuero 
+• radio AM/FM  CD/MP3/ lector de tarjeta sd, USB
+
+EXTERIOR:
+• Logo en alto relieve cromado 
+• Spoiler trasero, Exploradoras
+• Faros de halógeno en luces altas led
+• Faros de niebla delanteros
+• Sensores y cama de reversa 
+
+INFORMACIÓN ADICIONAL:
+• Buen estado de conservación
+• Placa terminada en 1 de Funza
+• Soat hasta diciembre de 2022
+
+PRECIO: $41.900.000 Negociables
+Se recibe vehículo de mayor o menor valor.
+Financiación: hasta 100% del valor comercial (aplican términos y condiciones)",VOLKSWAGEN,SAVEIRO,"MT 1.6L 99HP AA RC 15"" 2psj 4X2",2018,87.400 km,Usado,Gasolina,Plateado,Automática,4,4x2
+42,1111825518,KIA NIRO EMOTION HIBRIDA 2023,$ 133.490.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306602', 'SUBLOCALITY_LEVEL_1_name': 'Potosí Sector I'}","MOTOR: 1.6L GDI 
+Hibrido
+NO enchufable con motores 1.6L 
+
+sport mode
+Transmisión Automática
+de doble embrague con modo deportivo.
+
+Capacidad
+Un SUV
+versátil para carga y pasajeros.
+
+Tenemos los mejores planes financieros para que adquiera este vehículo, recibimos su usado en parte de pago de todas las marcas con la mayor garantía del mercado, permítanos asesorarle en todo el proceso y ofrecemos:
+
+PLANDES DE FINANCIACION HASTA EL 100%.
+
+Plan tradicional hasta 84 meses.
+
+Plan 14 cuotas hasta 84 meses.
+
+Periodo de gracia pague en el 2022.
+
+Plan 50% 50%.
+
+Plan héroes.
+
+RECIBIMOS SU VEHICULO USADO SIN IMPORTAR LA MARCA AL MEJOR PRECIO DEL MERCADO.
+
+Aplica condiciones y restricciones.",KIA,NIRO,"Emotion HBD 1.6L 2AB ABS RA 16"" 5P 4X2",2022,0 km,Nuevo,Híbrido,Blanco,Automática,5,4x2
+43,1110318664,KIA PICANTO 2023 EMOTION  C/A,$ 49.390.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306602', 'SUBLOCALITY_LEVEL_1_name': 'Potosí Sector I'}","CONTAMOS CON LA MEJOR GARANTIA DEL MAERCADO 7 ÑOS O 150 MIL KILOMETROS.
+
+
+Motor 1.0, 66 caballos de potencia, caja mecánica de 5 velocidades mas reversa, rin 13 de copa, aire acondicionado, comandos en el timón y computador abordo, vidrios eléctricos en las cuatro puertas bloqueo de vidrios para la segunda fila, espejos eléctricos, 2 airbag, aceros de ultra alta resistencia, frenos de disco delanteros con frenos ABS, radio de 9 pulgada K-Movie con cámara de reversa bluetooth, puerto USB, cargador de 12 voltios para el celular, 5 cinturones de seguridad de tres puntos, baúl con capacidad de 255 litros, sillas de la segunda fila abatibles 60% 40% o el 100%.
+
+PLANES DE FINANCIACION HASTA EL 100%
+
+Plan tradicional hasta 84 meses.
+Plan 14 cuotas hasta 84 meses.
+Periodos de gracia pague en 2022.
+Plan 50% 50%.
+
+RECIBOS TU USADO DE CUALQUIER MARCA AL MEJOR PRECIO DEL MERCADO.",KIA,PICANTO,,2022,0 km,Nuevo,Gasolina,Plateado,Mecánica,5,
+44,1115254869,Ssanyoon action,$ 32.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304788', 'SUBLOCALITY_LEVEL_1_name': 'Alamos Norte'}",Exelente camioneta  lista para traspaso inmediato,SSANGYONG,ACTYON SPORTS,2.3L 148HP AB DC,2011,104.000 km,Usado,Gasolina,Vinotinto,Mecánica,5,
+45,1115653408,Audi A4 Excelente estado,$ 70.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302762', 'SUBLOCALITY_LEVEL_1_name': 'San Alonso'}","Vehículo en excelente estado, radio actualizado a Android, llantas con poco uso, cámara de reversa y cámaras de grabación adelante y atrás.",AUDI,A4,FL B8 TFSI Ambition MT 1.8L T 120HP 4X2,2015,72.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+46,1115653407,Mazda BT50 unico dueño 4x4,$ 60.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007005', 'ADMIN_LEVEL_1_name': 'Norte de Santander', 'ADMIN_LEVEL_3_id': '4069313', 'ADMIN_LEVEL_3_name': 'Cúcuta', 'SUBLOCALITY_LEVEL_1_id': '5307653', 'SUBLOCALITY_LEVEL_1_name': 'La Rinconada'}",Camioneta en muy buen estado lista para firmar impuestos pagos.,MAZDA,BT50,B25D47 MT 2.5L TD 4X4,2011,129.000 km,Usado,Gasolina,Gris,Mecánica,4,4x4
+47,1109946343,CHERY VAN PASS 2 vendo permuto CON TRABAJO EXCELENTE ESTADO documentación al día,$ 26.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304794', 'SUBLOCALITY_LEVEL_1_name': 'Alejandría'}","Vendo permuto CHERY VAN PASS 2 recién reparada BUEN ESTADO GAS Y GASOLINA, documentación al día, soat tecno pólizas  , seguro TODO RIESGO vigente hasta marzo 2023, CON TRABAJO DIURNO Y NOCTURNO según le convenga ESCOLAR, AEROPUERTO. Precio negociable, Proponga negocio.",CHERY,YOYA,Otros,2015,172.000 km,Usado,Gasolina y Gas,Blanco,Mecánica,5,
+48,1115288337,Vendo stepway,$ 38.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301301', 'SUBLOCALITY_LEVEL_1_name': 'La Avanzada'}",Vendo sandero stepway modelo 2014 unico dueño perfecto estado todo al dia listo para traspasos escucho oferta,RENAULT,STEPWAY,Trek/ Zen/ Trip Advisor MT 1.6L 16V VED 4X2,2014,82.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+49,1115291246,Vendo koleos,$ 44.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301301', 'SUBLOCALITY_LEVEL_1_name': 'La Avanzada'}",Vendo renault koleos modelo 2011 4×4 muy buen estado todo al dia lista para traspasos escucho oferta techo cristal bose sillas en cuero,RENAULT,KOLEOS,Sportway R Link AT 2.5L TC CT RA18 4X4,2011,125.000 km,Usado,Gasolina,Gris,Automática,5,4x4
+50,1115653383,Renault Megane ll Omega 2.0 Full version,$ 19.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306678', 'SUBLOCALITY_LEVEL_1_name': 'San José Del Prado'}","Renault Megane ll 2.0 versión Omega 2007
+148.000 kms
+Único Dueño
+Cojineria en cuero
+Luces Turbo Led automáticas
+Sensores de lluvia
+Aire acondicionado automático
+Vidrios y retrovisores eléctricos
+Sun Roof, 6 Air bags
+No reportes, No siniestros
+Detalles de pintura 
+Soat y tecno para abril de 2023
+Impuestos al día 
+Listo para traspaso.
+2 juegos de llaves
+Placas de Bogota",RENAULT,MEGANE FII,Odeon AT 2.0L 2AB,2007,148.000 km,Usado,Gasolina,Azul,Automática,5,
+51,1115653317,Spaek go 2011,$ 20.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007019', 'ADMIN_LEVEL_1_name': 'Cauca', 'ADMIN_LEVEL_3_id': '4069894', 'ADMIN_LEVEL_3_name': 'Popayán', 'SUBLOCALITY_LEVEL_1_id': '5308270', 'SUBLOCALITY_LEVEL_1_name': 'La Capitana'}","Papeles al día 
+Traspaso inmediato 
+Llantas nuevas 
+Amortiguadores nuevos 
+Matricula en timbio vendo o cambio
+ Aire ful 
+Dirección hidráulica 
+Techo. 
+144 km 
+Muy buen estado",CHEVROLET,SPARK,GO MT 1.0L AA CT 4X2,2011,144.000 km,Usado,Gasolina,Blanco,Mecánica,5,4x2
+52,1115653308,Vendo twingo,$ 18.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301735', 'SUBLOCALITY_LEVEL_1_name': 'Santa Helena'}",Twingo en buen estado,RENAULT,TWINGO,F I Dynamique MT 1.2L 16V 4X2,2011,119.500 km,Usado,Gasolina,Negro,Mecánica,3,4x2
+53,1115653306,Mazda allegro 2007 1.3cc,$ 23.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303827', 'SUBLOCALITY_LEVEL_1_name': 'Meléndez'}","Vendo hermoso mazda allegro 1.3cc 2007 en perfecto estado tiene soat  como también los impuestos pagos ambos hace 1 mes   llantas nuevas rines nuevos recién balanceado y alineado, también está recién sincronizado se le cambio bujías cables de alta también tiene batería en buen estado.hace mes y medio se le cambiaron amortiguadores traseros nuevos y se levantó un poquito el carro. cogineria original en cuero en buen estado además posee radio pantalla con cámara de reversa y mando en el timón. hace 2 semanas se le hizo mantenimiento al aire acondicionado el cual quedó enfriando súper bien como es la versión full equipo posee frenos ABS 2 bolsas de aire los 4 vidrios son eléctricos y espejos retrovisores eléctricos.  aceite está para cambiar alrededor de los 162.000 kilómetros y la correa del tiempo para los 174.000 kilómetros tiene alguno que otro detalle de pintura mínimos el carro. mecánicamente está en perfecto estado. el carro tiene de recorrido 159.000 kilómetros libre de multas y se puede hacer traspaso.",MAZDA,ALLEGRO HATCHBACK,9ALH3M 1.3L SA,2007,159.000 km,Usado,Gasolina,Plateado,Mecánica,5,
+54,1115653297,Vendo automóvil,$ 25.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300118', 'ADMIN_LEVEL_3_name': 'Teusaquillo', 'SUBLOCALITY_LEVEL_1_id': '5306983', 'SUBLOCALITY_LEVEL_1_name': 'La Esmeralda'}","Automóvil Chevrolet Astra, 2004, como nuevo, papeles al día, listo para traspaso",CHEVROLET,ASTRA SEDAN,2.0L,2004,140.000 km,Usado,Gasolina,Blanco,Mecánica,4,
+55,1115653293,Hyunday Getz mecanico,$ 15.600.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300108', 'ADMIN_LEVEL_3_name': 'Ciudad Bolívar', 'SUBLOCALITY_LEVEL_1_id': '5304529', 'SUBLOCALITY_LEVEL_1_name': 'Alvaro Bernal Segura'}","Vehículo familiar, no trabajado en plataformas, placa par de Bogotá, 4 vidrios eléctricos, mantenimiento en frenos y cambio de aceite  recién echo, dirección hidráulica, llantas delanteras nuevas, traseras ya casi para cambio, soat y tecnomecanica 1 de noviembre impuestos al día, listo para traspaso, de forma general vehículo muy bien cuidado con 150 km.",HYUNDAI,GETZ,GL MT 1.3L 12V 5P 4X2,2005,150 km,Usado,Gasolina,Otro,Mecánica,5,4x2
+56,1115653251,Chevrolet spark life 1.0 (2016),$ 26.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300113', 'ADMIN_LEVEL_3_name': 'Puente Aranda', 'SUBLOCALITY_LEVEL_1_id': '5305677', 'SUBLOCALITY_LEVEL_1_name': 'Santa Rita III Sector'}","Vendo lindo Chevrolet spark life 1.0 (2016) ,rines de lujo, vidrios eléctricos, camara de reversa , papeles al día listo para traspaso, excelente estado precio negociable.",CHEVROLET,SPARK,Life 1.0L SA,2016,52.000 km,Usado,Gasolina,Vinotinto,Mecánica,4,
+57,1115653247,Vendo hermoso carro,$ 54.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069356', 'ADMIN_LEVEL_3_name': 'Girón', 'SUBLOCALITY_LEVEL_1_id': '5303019', 'SUBLOCALITY_LEVEL_1_name': 'Asodmevipo'}","Se vende hermoso carro sandero life plus 2022, con un año de uso con 7000 de kilometraje, prácticamente nuevo, sin casi uso, versión semi full.",RENAULT,SANDERO,FL Life + 1.6L 16V 4VE DPY7 RC15,2022,7.000 km,Usado,Gasolina,Gris,Mecánica,5,
+58,1115653238,Fiat Mobi 2020,$ 38.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300121', 'ADMIN_LEVEL_3_name': 'Usme', 'SUBLOCALITY_LEVEL_1_id': '5307395', 'SUBLOCALITY_LEVEL_1_name': 'El Rubí'}",Fiat Mobi  nuevo  solo 14 mil kms aire acondicionado,FIAT,MOBI,"Easy POP 1.0L MT RC 14"" 5P 4X2",2020,14.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+59,1115653231,Vendo taxi,$ 72.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303641', 'SUBLOCALITY_LEVEL_1_name': 'Altos de Menga'}",Taxi modelo 2017,KIA,Otros Modelos,Otros,2017,308 km,Usado,Gasolina y Gas,Amarillo,Mecánica,5,
+60,1115559249,Renault Sandero 1.6 Intens / At,$ 39.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306480', 'SUBLOCALITY_LEVEL_1_name': 'Las Villas Sector II'}","RENAULT SANDERO INTENSE AT 1.6CC
+
+EL MEJOR DE SU AÑO MANTENIMIENTOS EN RENAULT
+
+BLOQUEO CENTRAL, VIDRIOS ELECTRICOS, ESPEJOS ELECTRICOS, FRENOS ABS, DOBLE AIRBAG, AIRE ACONDICIONADO, DIRECCION HIDRAULICA, MANDOS DE RADIO EN EL TIMON, EXPLORADORAS
+
+HACEMOS PERITAJE DE COMPRA O RETOMA A DOMICILIO.
+*FINANCIAMOS POR FINANCIERA INICIAL 10%
+*RECIBIMOS VEHÍCULO EN PARTE DE PAGO.
+*DAMOS GARANTÍA SOBRE ESTRUCTURA, CAJA Y MOTOR.
+
+HAZNOS TU COMPRA Y HACEMOS LLEGAR EL VEHICULO A CUALQUIERA DE LAS PRINCIPALES CIUDADES DEL PAIS.
+
+ESTAMOS UBICADOS EN LA AVENIDA CALLE 129 59 33 - BARRIO CIUDAD JARDIN NORTE (ENTRE AVENIDAS VILLAS - BOYACA) Y CENTRO COMERCIAL NIZA (SOTANO)",RENAULT,SANDERO,Intens / Exclusive 1.6L 8V AA EE 4VE SR TC RA15,2016,54.000 km,Usado,Gasolina,Gris,Automática,5,
+61,1107864761,BMW 316I AT,$ 74.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",BMW,Série 3,,2015,87.000 km,Usado,Gasolina,Blanco,Automática,4,
+62,1115563487,Hyundai New Elantra Premium Mt 2 Airbags,$ 55.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306480', 'SUBLOCALITY_LEVEL_1_name': 'Las Villas Sector II'}","ALARMA, BLOQUEO CENTRAL, COJINERIA EN TELA, RINES DE LUJO, AIRE ACONDICIONADO, EXPLORADORAS, ABS, ESPEJOS ELECTRICOS, VIDRIOS ELECTRICOS, MANDOS EN EL TIMON, DIRECCION HIDRAULICA DOBLE AIRBAG RINES DE LUJO
+
+
+
+HACEMOS PERITAJE DE COMPRA O RETOMA A DOMICILIO.
+*FINANCIAMOS POR FINANCIERA INICIAL 10%
+*RECIBIMOS VEHÍCULO EN PARTE DE PAGO.
+*DAMOS GARANTÍA SOBRE ESTRUCTURA, CAJA Y MOTOR.
+
+HAZNOS TU COMPRA Y HACEMOS LLEGAR EL VEHICULO A CUALQUIERA DE LAS PRINCIPALES CIUDADES DEL PAIS.
+
+ESTAMOS UBICADOS EN LA AVENIDA CALLE 129 59 33 - BARRIO CIUDAD JARDIN NORTE (ENTRE AVENIDAS VILLAS - BOYACA) Y CENTRO COMERCIAL NIZA (SOTANO)",HYUNDAI,ELANTRA,NB Premium MT 1.6L 2AB 4X2,2017,40.500 km,Usado,Gasolina,Azul,Mecánica,4,4x2
+63,1115472874,CHEVROLET SPARK S.A,$ 19.980.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",CHEVROLET,SPARK,LS MT 1.0L SA 4X2,2011,110.000 km,Usado,Gasolina,Negro,Mecánica,5,4x2
+64,1111827203,"Topolino clásico descapotable, motor original. Todo al día m",$ 17.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303717', 'SUBLOCALITY_LEVEL_1_name': 'El Morichal'}","Fiat topolino clásico excelente estado, todo le funciona, descapotable, motor original, papeles al día. 1978.",FIAT,Topolino,Otros,1978,30.000 km,Usado,Gasolina,Blanco,Mecánica,2,
+65,1115653210,"Venta de mazda 2 sedan prime 2020, automatico , perfecto estado . libre de deudas , esta para traspaso inmediato .",$ 62.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303673', 'SUBLOCALITY_LEVEL_1_name': 'Centenario'}","Segunda dueña , perfecto estado , Solo efectivo.",MAZDA,2 SEDAN,FL Prime AT 1.5L 2AB RA15,2020,41.691 km,Usado,Gasolina,Blanco,Automática,5,
+66,1115653192,Vendo spark life mod 2015,$ 25.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301240', 'SUBLOCALITY_LEVEL_1_name': 'Centro Administrativo'}","Incluye:
+Aire acondicionado 
+Vidrios eléctricos 
+Puertas eléctricas 
+Alarma
+Spoilers
+Motor sin reparar
+Radio
+Protector de cárter
+sensor de reversa
+Excelente estado, único dueño, está ubicado en la ciudad Medellín, totalmente negociable.",CHEVROLET,SPARK,Life MT 1.0L SA 4X2,2015,76.500 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+67,1114568207,HermosaVenta Seat Arona,$ 66.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300104', 'ADMIN_LEVEL_3_name': 'Barrios Unidos', 'SUBLOCALITY_LEVEL_1_id': '5304035', 'SUBLOCALITY_LEVEL_1_name': 'Rincón Del Salitre - Urbanización Modelo II'}","Seat arona 2022, sillas en cuero",SEAT,ARONA,Reference MT 1.6L 4X2,2022,9.500 km,Usado,Gasolina,Plateado,Mecánica,5,4x2
+68,1115653177,Camioneta strada aventure full equipo 4x2 modelo 2018,$ 49.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303704', 'SUBLOCALITY_LEVEL_1_name': 'El Cedro'}",Hermosa camioneta Fiat strada aventure full equipo modelo 2018 con 85mil kilometros llantas nuevas con sistema bloqueo diferencial  lista para traspaso.,FIAT,STRADA,Otros,2018,85.000 km,Usado,Gasolina,Rojo,Mecánica,4,
+69,1115653175,Van n 300 max a la venta,$ 31.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300108', 'ADMIN_LEVEL_3_name': 'Ciudad Bolívar', 'SUBLOCALITY_LEVEL_1_id': '5304671', 'SUBLOCALITY_LEVEL_1_name': 'Lucero Bajo'}",Tecnomecanica hasta junio 2022 y soat hasta febrero 2023  buen estado. Uso familiar. 3153153,CHEVROLET,VAN N300,Otros,2012,145.500 km,Usado,Gasolina,Blanco,,5,
+70,1115653137,Duster expresión 2015,$ 36.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305547', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Los Cristales - Urbanización La Rebeca'}",Perfecto estado único dueño motivo viaje..,RENAULT,DUSTER,"Expression MT 1.6L 1AB VED RC 16"" 4X2",2015,160 km,Usado,Gasolina y Gas,Blanco,Mecánica,5,4x2
+71,1115653123,TAXI  HIUNDAY i10 MODELO 2016,$ 58.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303700', 'SUBLOCALITY_LEVEL_1_name': 'Doce de Octubre'}","En buen estado, licencia , seguros todo al dia",HYUNDAI,i10,,2016,200.000 km,Usado,Gasolina y Gas,Amarillo,Mecánica,4,
+72,1115653086,Renault Captur Zen Nueva !,$ 75.250.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007022', 'ADMIN_LEVEL_1_name': 'Boyacá', 'ADMIN_LEVEL_3_id': '4069966', 'ADMIN_LEVEL_3_name': 'Sogamoso'}","Vendo Renault Captur modelo 2021, version mecánica, full equipo, asegurada todo riesgo, película de seguridad, cámara de reversa original Renault, llantas al 90%, sin detalles, todo al día.",RENAULT,CAPTUR,"Zen MT 2.0L EE 4VE RA 17"" 4X2",2021,1.600 km,Usado,Gasolina,Negro,Mecánica,5,4x2
+73,1115652894,Vendo carro Sprint,$ 8.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007009', 'ADMIN_LEVEL_1_name': 'Tolima', 'ADMIN_LEVEL_3_id': '4069484', 'ADMIN_LEVEL_3_name': 'Ibagué', 'SUBLOCALITY_LEVEL_1_id': '5303581', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Villa Jardín'}","Vendo carro Sprint papeles 
+Al día más información  al número",Otro,Otros,,1980,0 km,Usado,Gasolina,Blanco,Mecánica,4,
+74,1115652882,Se vende/permuta mayor valor,$ 70.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307253', 'SUBLOCALITY_LEVEL_1_name': 'Tardes De San José'}","Kia tonic vibrant 
+Modelo 2020
+Documentos al día 
+Mantenimientos al día",KIA,TONIC,Vivrant AT 1.6L 4P 2AB ABS CR RA16,2020,22.000 km,,Gasolina,Gris,Automática Secuencial,5,
+75,1115652875,DAEWOO LANOS 1998 EXCELENTE ESTADO,$ 11.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301671', 'SUBLOCALITY_LEVEL_1_name': 'El Campín'}","Vendo DAEWOO LANOS modelo 98, excelente estado, 5 puertas",DAEWOO,LANOS,,1998,190.013 km,Usado,Gasolina,Vinotinto,Mecánica,5,
+76,1115652874,Se vende leconomico spart Gt full equipo,$ 30.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300114', 'ADMIN_LEVEL_3_name': 'Rafael Uribe Uribe', 'SUBLOCALITY_LEVEL_1_id': '5305849', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Sosiego Norte'}",Chevrolet spark gt modelo 2014 económico,CHEVROLET,Spark GT,LT 1.2L,2014,98.000 km,Usado,Gasolina,Rojo,Mecánica,5,
+77,1115652870,Kia Saúl 2011,$ 31.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303893', 'SUBLOCALITY_LEVEL_1_name': 'San Pedro'}",Exelente estado,KIA,SOUL,,2011,147.826 km,Usado,Gasolina,Gris,Mecánica,5,
+78,1115298667,Mazda 3 2016 Prime Automático,$ 57.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305437', 'SUBLOCALITY_LEVEL_1_name': 'Mandalay'}","Vehiculo familiar
+-Papeles al día para octubre
+-Excelente estado tanto mecánico como estético.
+-Carpeta completa de mantenimientos con sus respectivas facturas.
+- 2do dueño
+Nunca chocado, no tiene prenda, ni embargos ni ninguna limitación.
+Peritaje donde guste.
+
+Venta directa. No se permuta.",MAZDA,3 SEDAN,Prime AT 2.0L 2AB RA16,2016,90.000 km,Usado,Gasolina,Gris,Automática,4,
+79,1115652848,Mazda cx5 2020,$ 104.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301220', 'SUBLOCALITY_LEVEL_1_name': 'Bomboná No.2'}","Cx5 2020 
+Touring 2.0
+Papeles nuevos
+Tránsito envigado
+42 mil kms 
+Traspaso inmediato 
+104'800.000$$",MAZDA,CX5,"Touring TP 2.0L 153HP CR RA 17"" 4X4",2020,42.000 km,Usado,,,,,4x4
+80,1115458035,Mazda 2 1.5 Prime Sedan,$ 63.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306480', 'SUBLOCALITY_LEVEL_1_name': 'Las Villas Sector II'}","Mazda 2 PRIME MECANICO SEDAN 1.5CC
+
+ERFECTO ESTADO POCO USO , FULL EQUIPO EL MEJOR EN SU AÑO. DOBLE AIRBAG MANTENIMIENTO EN MAZDA.
+
+ALARMA, BLOQUEO , ELEVAVIDRIOS EN LAS 4 PT, DIRECCION HIDRAULICA, AIRE ACONDICIONADO, RINES DE LUJO, 2 AIRBAGS. ESPEJOS ELECTRICOS, EXPLORADORAS, , FRENOS ABS, FRENOS EBD, CONTROL DE ESTABILIDAD, TRANSMISION MECANICA, MOTOR DE 16 VALVULAS, TECNOLOGIA SKYACTIV, RADIO MP3 CON CONECTIVIDAD BLUETOOTH, COJINERIA EN TELA.
+
+HACEMOS PERITAJE DE COMPRA O RETOMA A DOMICILIO.
+*FINANCIAMOS POR FINANCIERA INICIAL 10%
+*RECIBIMOS VEHÍCULO EN PARTE DE PAGO.
+*DAMOS GARANTÍA SOBRE ESTRUCTURA, CAJA Y MOTOR.
+
+HAZNOS TU COMPRA Y HACEMOS LLEGAR EL VEHICULO A CUALQUIERA DE LAS PRINCIPALES CIUDADES DEL PAIS.
+
+ESTAMOS UBICADOS EN LA AVENIDA CALLE 129 59 33 - BARRIO CIUDAD JARDIN NORTE (ENTRE AVENIDAS VILLAS - BOYACA) Y CENTRO COMERCIAL NIZA (SOTANO)",MAZDA,2 SEDAN,FL Prime 1.5L 2AB RA15,2021,18.000 km,Usado,Gasolina,Plateado,Mecánica,4,
+81,1115479305,Hyundai Accent 1.4l 4 p,$ 41.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306480', 'SUBLOCALITY_LEVEL_1_name': 'Las Villas Sector II'}","ALARMA, BLOQUEO CENTRAL, COJINERIA EN TELA, RINES DE LUJO, AIRE ACONDICIONADO, EXPLORADORAS, ESPEJOS ELECTRICOS, VIDRIOS ELECTRICOS, MANDOS EN EL TIMON, DIRECCION HIDRAULICA.
+
+HACEMOS PERITAJE DE COMPRA O RETOMA A DOMICILIO.
+*FINANCIAMOS POR FINANCIERA INICIAL 10%
+*RECIBIMOS VEHÍCULO EN PARTE DE PAGO.
+*DAMOS GARANTÍA SOBRE ESTRUCTURA, CAJA Y MOTOR.
+
+HAZNOS TU COMPRA Y HACEMOS LLEGAR EL VEHICULO A CUALQUIERA DE LAS PRINCIPALES CIUDADES DEL PAIS.
+
+ESTAMOS UBICADOS EN LA AVENIDA CALLE 129 59 33 - BARRIO CIUDAD JARDIN NORTE (ENTRE AVENIDAS VILLAS - BOYACA) Y CENTRO COMERCIAL NIZA (SOTANO)",HYUNDAI,ACCENT,NB Advance MT 1.4L AA 4P 4X2,2015,84.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+82,1115189691,KIA RIO ZENITH SEDAN 2021 AUTOMATICO MOTOR 1.4 4X2 GASOLINA,$ 74.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007005', 'ADMIN_LEVEL_1_name': 'Norte de Santander', 'ADMIN_LEVEL_3_id': '4069313', 'ADMIN_LEVEL_3_name': 'Cúcuta', 'SUBLOCALITY_LEVEL_1_id': '5307592', 'SUBLOCALITY_LEVEL_1_name': 'Carlos García Lozada'}",KIA RIO ZENITH SEDAN 2021 AUTOMATICO MOTOR 1.4 4X2 GASOLINA,KIA,RIO SEDAN,Zenith AT 1.4L CT TC RA17,2021,20.999 km,Usado,Gasolina,Blanco,Automática,4,
+83,1114795134,KIA RIO SEDAN MT 2022,$ 72.490.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306602', 'SUBLOCALITY_LEVEL_1_name': 'Potosí Sector I'}","CONTAMOS CON LA MEJOR GARANTIA DEL MERCADO 7 AÑOS O 150 MIL KILOMETROS.
+
+Motor 1.4 con 99 caballos de potencia, caja mecánica de 6 velocidades mas reversa, Rin 17 bi tono de lujo, frenos de disco en las cuatros ruedas, frenos ABS, dos air bag, aceros de ultra alta resistencia, aire acondicionado, exploradoras, espejos eléctricos, vidrios eléctricos en las 4 puertas, bloque central, bloque de vidrios para la segunda fila, botón de encendido, controles de audio en el timón y computadora abordo, apliques tipo piano en la consola central y salidas de aire acondicionado, timón y palanca forrados en cuero, timón ajustable en altura, Radio de 8 pulgas Cen Entre Easy Smart, Car Play, Android Auto, cámara de reversa, puerto USB y entrada de cargador 12 voltios, sillas en la segunda fila abatibles 60% 40% o el 100% 5 cinturones de seguridad de 3 puntos, 3 apoya cabezas en la segunda fila, baúl con capacidad 480 litros.
+
+PLANES DE FINANCIACION HASTA EL 100%
+
+Plan tradicional hasta 84 meses.
+
+Plan 14 cuotas hasta 84 meses.
+
+Periodo de gracia pague en 2022.
+
+Pan 50% 50%.
+
+Plan héroes.
+
+RECIBIMOS SU USADO SIN IMPORTAR LA MARCA AL MEJOR PRECIO DEL MERCADO.
+
+Aplica condiciones y restricciones.",KIA,RIO SEDAN,Vivrant 1.4L FDT RA17,2022,0 km,Nuevo,Gasolina,Azul,Mecánica,4,
+84,1115652812,Se vendo o se permuta taxi,$ 67.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069139', 'ADMIN_LEVEL_3_name': 'Yarumal'}",Se vende o se permuta taxi afiliado a Coonorte trabaja de Caucasia tarza yarumal en eselte estado papeles al día 67 millones negociable,HYUNDAI,Otros Modelos,Otros,2008,0 km,Usado,Gasolina,Blanco,Automática,4,
+85,1115652808,"Casi nuevo, en buen estado y barato",$ 98.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302136', 'SUBLOCALITY_LEVEL_1_name': 'Bavaria'}",Tiene todo full,MAZDA,CX3,"Touring MT 2.0L RA 17"" 4X2",2020,22.000 km,Usado,Gasolina,Vinotinto,Automática,5,4x2
+86,1112365104,"Espectacular carro, en perfectas condiciones.",$ 12.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300121', 'ADMIN_LEVEL_3_name': 'Usme', 'SUBLOCALITY_LEVEL_1_id': '5307450', 'SUBLOCALITY_LEVEL_1_name': 'La Regadera Sur'}","Hermoso vehículo peugeot, en perfectas condiciones.",PEUGEOT,405,SRI AT 2.0L FRANCIA 4X2,1995,14.000 km,Usado,Gasolina,Rojo,Mecánica,4,4x2
+87,1115652761,Sail ltz 2018 full 38.600.000 se entrega con peritaje,$ 38.600.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302397', 'SUBLOCALITY_LEVEL_1_name': 'Olaya Herrera'}","-4 vidrios eléctricos 
+-Pantalla android con cámara de reversa 
+-Retrovisores eléctricos 
+-Llantas como nuevas 
+-Segundo dueño 
+- Soat 26 de noviembre",CHEVROLET,SAIL,LTZ MT 1.4L AA 2AB ABS 4P 4X2,2018,49.000 km,Usado,Gasolina,Plateado,Mecánica,4,4x2
+88,1115652744,Se vende carro por motivo de viaje,$ 6.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302466', 'SUBLOCALITY_LEVEL_1_name': 'Samaria I'}",Se vende carro,RENAULT,R19,Otros,2000,250.000 km,Usado,Gasolina,Dorado,,4,
+89,1115652715,Tracker 2016. Como nueva,$ 49.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301237', 'SUBLOCALITY_LEVEL_1_name': 'Castropol'}","Chevrolet tracker, modelo 2016. Papeles al día. Como nueva.",CHEVROLET,TRACKER,LS 1.8L,2016,75.000 km,Usado,Gasolina,Plateado,Mecánica,5,
+90,1115652705,Vendo Chevrolet Cruze Platinum,$ 35.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007010', 'ADMIN_LEVEL_1_name': 'Nariño', 'ADMIN_LEVEL_3_id': '4069531', 'ADMIN_LEVEL_3_name': 'San Juan de Pasto', 'SUBLOCALITY_LEVEL_1_id': '5308120', 'SUBLOCALITY_LEVEL_1_name': 'Bachué'}","Chevrolet Cruze Platinum, en muy buen estado, con solo 91.000 Kms color azul",CHEVROLET,CRUZE SEDAN,Platinum LT AT 1.8L CT TC SR,2011,91.000 km,Usado,Gasolina,Azul,Automática,4,
+91,1115652704,Volkswagen Gol Trendline,$ 34.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007008', 'ADMIN_LEVEL_1_name': 'Magdalena', 'ADMIN_LEVEL_3_id': '4069454', 'ADMIN_LEVEL_3_name': 'Santa Marta', 'SUBLOCALITY_LEVEL_1_id': '5308347', 'SUBLOCALITY_LEVEL_1_name': 'El Reposo'}","Con todo al día
+Listo para traspaso
+Excelente estado de motor cojinería pintura y llantas",VOLKSWAGEN,GOL HATCHBACK,Trendline 1.6L AA 2AB VED RC14,2016,68.000 km,Usado,Gasolina,Otro,Mecánica,4,
+92,1115652623,VENDO TUCSON 2008 GASOLINA/MECANICA,$ 35.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305413', 'SUBLOCALITY_LEVEL_1_name': 'Las Amercias Sector Galán'}","Vendo Hyundai Tucson GL, modelo 2008,motor 2000cc,caja mecánica,a gasolina, aire acondicionado, espejos eléctricos, vidrios eléctricos, alarma,en muy buen estado
+Totalmente al día
+
+VALOR: $ 35 800 000
+NEGOCIABLE",HYUNDAI,TUCSON,GL 2.0L FE,2008,250.000 km,Usado,Gasolina,Plateado,Mecánica,5,
+93,1115652620,Renault clio,$ 24.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007010', 'ADMIN_LEVEL_1_name': 'Nariño', 'ADMIN_LEVEL_3_id': '4069531', 'ADMIN_LEVEL_3_name': 'San Juan de Pasto', 'SUBLOCALITY_LEVEL_1_id': '5308190', 'SUBLOCALITY_LEVEL_1_name': 'Arnulfo Guerrero'}","Modelo 2013
+Pastuso
+Seguro hasta junio 28
+Tecnomecanica hasta abril 2023 
+Impuestos 2022 al día",RENAULT,CLIO,Otros,2013,13.800 km,Usado,Gasolina,Gris,,,
+94,1115652606,Nissan March Sense Advance 2016 FULL,$ 43.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069122', 'ADMIN_LEVEL_3_name': 'Bello', 'SUBLOCALITY_LEVEL_1_id': '5301052', 'SUBLOCALITY_LEVEL_1_name': 'San José Obrero'}","Vidrios eléctricos,  retrovisores eléctricos, 65.000 kilometraje,  rines originales de lujo, llantas al 80%, pantalla Android,  explorasoras, sensores y cámara de reversa, comando en el timón,  cojineria en perfecto estado, aire acondicionado,  papeles hasta diciembre,  tránsito de Medellín, ni choques ni reclamaciones,  peritaje reciente, asegurado actualmente.",NISSAN,MARCH,Sense MT 1.6L 2AB 4X2,2016,65.000 km,Usado,Gasolina,Blanco,Mecánica,5,4x2
+95,1115652597,VAN N400 PASAJEROS,$ 56.095.833,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301387', 'SUBLOCALITY_LEVEL_1_name': 'Perpetuo Socorro'}","Nueva Van N400 Pasajeros y Carga
+Compra tu carro en 3 pasos
+
+Separa la tuya con solo:
+1. Inicial: 14.429.167
+
+Cuando se confirme la entrega:
+2. Inicial 2: 41.666.667
+
+Sigue pagando cuotas mensuales:
+3. Cuotas: 454.812
+ 
+Préstamos a 6 años 
+Costo de financiamiento: 13.387.500",CHEVROLET,Otros Modelos,Otros,2022,0 km,Nuevo,Gasolina,Plateado,Mecánica,4,
+96,1115652578,Vendo renault 9,$ 5.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301592', 'SUBLOCALITY_LEVEL_1_name': 'Riomar'}",Motor reparado a los 100 mil carburado de Mazda aire acondicionado el carro tenía 10 años en medellin,RENAULT,R9,"Brio MT 1.3L SA RC 13"" 4X2",1995,150.000 km,Usado,Gasolina,Blanco,Mecánica,4,4x2
+97,1114368110,Se vende Chevrolet Swift,$ 5.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069086', 'ADMIN_LEVEL_3_name': 'Jamundí', 'SUBLOCALITY_LEVEL_1_id': '1000000000002508', 'SUBLOCALITY_LEVEL_1_name': 'Alfaguara'}",Se vende carro Chevrolet Swift plateado en muy buen estado con parrilla para viajes está bien de todo papeles al día hasta diciembre  de Manizales se hace traspaso.,CHEVROLET,SWIFT,1.3L 66HP SA RA13 COL,1994,0 km,Usado,Gasolina,Plateado,Mecánica,4,
+98,1115652542,Vendo hermoso Aveo family,$ 20.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303881', 'SUBLOCALITY_LEVEL_1_name': 'San Cayetano'}","Hermoso Aveo family modelo 2008, seguro por vencer, tecnomecanica hasta octubre impuestos al día, matriculado en cali.",CHEVROLET,AVEO,Otros,2008,122.000 km,Usado,Gasolina,Beige,Mecánica,5,
+99,1115652532,Chevrolet Optra Modelo 2006 Automatico Full Equipo,$ 13.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301499', 'SUBLOCALITY_LEVEL_1_name': 'El Limoncito'}","Buenas condiciones generales, documentos en regla. Lo doy en buen precio para que el comprador asuma los impuestos por valor de 2'300.000  hay traspaso.",CHEVROLET,OPTRA HATCHBACK,AT 1.8L,2007,140.752 km,Usado,Gasolina,Azul,Automática,4,
+100,1111811452,KIA STONIC HIBRIDA ZENIHT MT 2023,$ 94.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307227', 'SUBLOCALITY_LEVEL_1_name': 'San Patricio'}","TASA PREFERENCIA 0.6%
+
+ENTREGA INMEDIATA
+
+Motor 1.0 turbo gasolina,99 caballos de potencia, caja Mecánica inteligente de 6 velocidades mas reversa, cuenta con tres modos de manejo NORMAL, ECO Y SPORT, 4X2, Rin 16 Bitono de lujo, aire acondicionado automatico, 6 Air Bag, Frenos ABS, Control de Estabilidad, Control de tracción, asistente de arranque en pendiente, Monitor de presión de las llantas, luces DRL de proyección LED, Luces LED Del, exploradoras LED, SUN Roof electrónico, Radio de 8 pulgadas Cen Entre Easy Smart, Car Play, Android Auto, Bluetooth, cámara de reversa con guías dinámicas, puerto USB y entrada de cargador de 12 voltios para el celular, sensor de reversa, Rack de techo, Vidrios eléctricos en las 4 puertas, bloqueo de vidrios para la segunda fila, espejos eléctricos, direccionales en los espejos y abatibles eléctricamente, Volante ajustable en altura y profundidad, comandos en el timón y computador abordo, control crucero, alerta de colisión frontal, frenado autónomo de emergencia, asistente de luces altas automáticas , alerta de atención al conductor, asistente de seguimiento de carril, asistencia de mantenimiento de carril, 5 cinturones de seguridad de 3 puntos, sillas traseras abatibles 60% 40% o el 100%, capacidad de baúl 352 litros.
+
+PLANDES DE FINANCIACION HASTA EL 100%.
+
+Plan tradicional hasta 84 meses.
+
+Plan 14 cuotas hasta 84 meses.
+
+Periodo de gracia pague en el 2022.
+
+Plan 50% 50%.
+
+Plan héroes.
+
+RECIBIMOS SU VEHICULO USADO SIN IMPORTAR LA MARCA AL MEJOR PRECIO DEL MERCADO.
+Aplica condiciones y restricciones.",KIA,Otros Modelos,Otros,2022,0 km,Nuevo,Gasolina,Azul,Mecánica,5,
+101,1111104810,BMW 116I MT,$ 60.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",BMW,116i,F20 STD MT 1.6L T 136HP 5P 4X2,2014,97.000 km,Usado,Gasolina,Rojo,Mecánica,5,4x2
+102,1115318617,SUSUKI SWIFT GL 1.4 AT 2015 4VE RA15 AA EE JAP,$ 39.600.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306613', 'SUBLOCALITY_LEVEL_1_name': 'Prado Veraniego Norte - Urbanización El Condado De Iberia'}","Versión: SUSUKI SWIFT GL 1.4 AT 2015 4VE RA15 AA EE JAP
+Dirección Electroasistida.
+Alarma.
+Aire Acondicionado.
+4 vidrios electricos.
+Tapizado en tela.
+Rines de lujo.
+Espejos eléctricos.
+Automatico.
+Estado interno en un 95%.
+Estado Externo en un 95%.
+Las 4 llantas con un 80% de vida.
+Vehiculo matriculado en BOGOTA D.C.
+
+VEHÍCULO EN MUY BUENAS CONDICIONES
+SE RECIBE VEHÍCULO DE MENOR O MAYOR VALOR.
+
+ARDILA & AMAYA Concesionario.
+¡Todo en un mismo Lugar!
+
+Recibimos su vehículo de menor o mayor valor en parte de pago.
+Aceptamos todo tipo de tarjetas débito y crédito.
+Aceptamos todo tipo de crédito Libre Inversión o de Vehículo.
+
+Ofrecemos :
+Compra y Venta de vehículos.
+Tramites ante transito a nivel nacional.
+Servicio de peritaje.
+Venta de Pólizas todo Riesgo y seguro obligatorio Soat.
+Prestamos el servicio de mecánica general y rápida.
+Venta de todo tipo de accesorios y lujos automotriz.
+Venta de baterías y arreglos eléctricos para tu vehículo.
+
+Pregúntale a tu asesor.",SUZUKI,SWIFT,"GL AT 1.4L RA 15"" 5P JAP 4X2",2015,119.000 km,Usado,Gasolina,Negro,Automática Secuencial,5,4x2
+103,1115440719,CHEVROLET ONIX LT AUTOMÁTICO,$ 59.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301576', 'SUBLOCALITY_LEVEL_1_name': 'Miramar'}","Perfecto estado
+Radio pantalla
+Cámara de reversa
+Sensor de reversa
+Libre de prenda
+Soat vigente 
+Impuestos al día 
+Llamame",CHEVROLET,ONIX SEDAN,LT 1.4L 2AB ABS,2019,18.000 km,Usado,Gasolina,Azul,Automática,5,
+104,1115652526,Mazda 3 sedan,$ 36.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303694', 'SUBLOCALITY_LEVEL_1_name': 'Compartir'}","Mazda 3 automático
+Cogineria de cuero
+Papeles al día
+Asegurable
+Km 124.200",MAZDA,3,Z6NA7 AT 1.6L 4X2,2012,124.200 km,,Gasolina,Plateado,Automática Secuencial,5,4x2
+105,1115652522,Camioneta BAIC X25 COMFORT,$ 38.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307225', 'SUBLOCALITY_LEVEL_1_name': 'San Juan Bosco'}","Camioneta en excelente estado. Cuenta con aire acondicionado, vidrios eléctricos, bloqueo central, radio de pantalla y rines de lujo,
+
+SE ENCUENTRA TRABAJANDO.
+
+PRECIO NEGOCIABLE.",BAIC,X25,COMFORT MT 1.5L 2AB ABS 4X2,2018,112.000 km,Usado,Gasolina y Gas,Blanco,Mecánica,5,4x2
+106,1115652518,"EN VENTA CARRO RENAULT CLIO, COLOR VINOTINTO EN EXCELENTE ESTADO ✅",$ 23.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007013', 'ADMIN_LEVEL_1_name': 'Meta', 'ADMIN_LEVEL_3_id': '4069659', 'ADMIN_LEVEL_3_name': 'Villavicencio', 'SUBLOCALITY_LEVEL_1_id': '5308086', 'SUBLOCALITY_LEVEL_1_name': 'Santa Martha'}","Excelente estado, batería nueva, transmisión mecánica nueva, llantas nuevas, aire acondicionado , cojineria excelente, a muy buen precio ‼️‼️",RENAULT,CLIO,Otros,2008,167.000 km,Usado,,Vinotinto,Mecánica,5,
+107,1115652516,Vendo aveo en muy buenas  condiciones,$ 24.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300105', 'ADMIN_LEVEL_3_name': 'Bosa', 'SUBLOCALITY_LEVEL_1_id': '5304123', 'SUBLOCALITY_LEVEL_1_name': 'El Llano De Bosa'}",Vendo  aveo  papeles  al día  impuestos  pagos  seguro para 2023 y tecno para 2023 correa nueva llantas 90 a nombre  del vendedor ubicado  en bosa,CHEVROLET,AVEO,SD MT 1.6L SA LS 4P 4X2,2010,108.000 km,Usado,Gasolina,Negro,Mecánica,4,4x2
+108,1115652488,Sandero dinamique automático.,$ 28.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301395', 'SUBLOCALITY_LEVEL_1_name': 'Robledo'}","Sandero automático, doble Airbag, cámara de reversa, pantalla Pionner, bloqueo central, alarma.",RENAULT,SANDERO,"Dynamique AT 1.6L 16V AA EE 4VE RA 15"" 4X2",2012,114.700 km,Usado,Gasolina,Blanco,Automática Secuencial,5,4x2
+109,1115652478,VENDO DFSK 2014,$ 29.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300113', 'ADMIN_LEVEL_3_name': 'Puente Aranda', 'SUBLOCALITY_LEVEL_1_id': '5305626', 'SUBLOCALITY_LEVEL_1_name': 'Centro Industrial'}",Vendo dfsk 2014 documentos al día cilindraje 1300 lista para traspaso,DFSK,MINIVAN,1.3L SA CARGO PANEL 5P,2014,122.200 km,Usado,Gasolina,Blanco,Mecánica,5,
+110,1115652461,Chevrolet sail sedan,$ 35.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307198', 'SUBLOCALITY_LEVEL_1_name': 'Parques De Lorena'}",Buen estado,CHEVROLET,SAIL SEDAN,LTZ 1.4L AA 2AB ABS,2018,68.000 km,Usado,Gasolina,Negro,Mecánica,5,
+111,1115652448,Venta de kia Rio Sedan,$ 46.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302397', 'SUBLOCALITY_LEVEL_1_name': 'Olaya Herrera'}","Se vende Kia Rio Sedan, en muy buenas condiciones.",KIA,RIO SEDAN,R 1.2L,2016,90.360 km,Usado,Gasolina,Blanco,Mecánica,5,
+112,1115652440,SUZUKI S CROSS ALL GRIP 2016 AUTOMATICA,$ 63.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302221', 'SUBLOCALITY_LEVEL_1_name': 'El Palmar'}","Suzuki s cross automatica 1600 cms 4x4  - kms 76300 automatica placa cali papeles dic 2022 cerritos pereira risaralda SE DA COMO  PARTE DE PAGO, MAS EFECTIVO POR SZ LIVE VITARA 2023 AUT. 4X2",SUZUKI,S-CROSS,"GL All Grip AT 1.6L RA 16"" 5P 4X4",2016,76.300 km,Usado,Gasolina,Gris,Automática,5,4x4
+113,1115652436,Hermosa kia sportage 2015,$ 76.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306927', 'SUBLOCALITY_LEVEL_1_name': 'Villa Del Prado'}",Vendo kia sportage 2015 la más full cojineria en cuero motor 2.4 es la 4x4 techo cristal muy cuidada  solo efectivo no cambios.,KIA,New Sportage,Otros,2015,93.000 km,Usado,Gasolina,Blanco,Automática Secuencial,5,
+114,1115652427,VENDO AVEO FAMILY MODELO 2011,$ 24.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303926', 'SUBLOCALITY_LEVEL_1_name': 'Tejares - Cristales'}",Vendo aveo family 2011 seguro hasta enero 2023 y tecno mecánica hasta julio del 2022,CHEVROLET,AVEO,Family MT 1.5L AA 4P 4X2,2011,117.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+115,1115652420,Chevrolet Spark 2009,$ 16.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007015', 'ADMIN_LEVEL_1_name': 'Quindío', 'ADMIN_LEVEL_3_id': '4069804', 'ADMIN_LEVEL_3_name': 'Armenia', 'SUBLOCALITY_LEVEL_1_id': '5302010', 'SUBLOCALITY_LEVEL_1_name': 'Puerto Espejo I Etapa'}","Por motivo de viaje vendo vehículo 4 puertas color gris plata, en muy buen estado. Precio negociable...",CHEVROLET,SPARK ACTIV,1.2L 2AB ABS BT,2009,170 km,Usado,,Gris,,4,
+116,1115652395,"Chevrolet beat, Blanco 2019,LTZ PREMIER - MECANICO",$ 41.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303704', 'SUBLOCALITY_LEVEL_1_name': 'El Cedro'}","Chevrolet BEAT 
+Color: blanco
+Modelo: 2019
+Transmisión: manual
+Puertas: 5
+Kilometraje: 35.000
+SOAT hasta noviembre
+Dirección electro asistida
+Tapicería en perfecto estado
+Único dueño",CHEVROLET,BEAT,"LTZ Premier NOTCHBACK 1.2L 4VE EE RA 14"" 4X2",2019,35.000 km,Usado,Gasolina,Blanco,Mecánica,5,4x2
+117,1115652384,2022 ( lista para traspaso) rines 22 . Cojineria en cuero.,$ 218.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301469', 'SUBLOCALITY_LEVEL_1_name': 'Boston'}",2.4 diesel .,TOYOTA,FORTUNER,SW4 Street 2.4L TD 147HP AT 7psj 4X2,2022,2.300 km,Usado,Diesel,Plateado,Automática,5,4x2
+118,1115652378,Chevrolet optra lt 1.8 azul,$ 22.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300108', 'ADMIN_LEVEL_3_name': 'Ciudad Bolívar', 'SUBLOCALITY_LEVEL_1_id': '5304715', 'SUBLOCALITY_LEVEL_1_name': 'Rincón De La Valvanera'}",Chevrolet optra lt 1.8 azul hatchback 90.500 km. Se encuentra en Bogotá. Precio fijo. Por favor pregunte solo si tiene la intención de comprar. Muchas gracias.,CHEVROLET,OPTRA HATCHBACK,1.8L,2009,90.500 km,Usado,Gasolina,Azul,Mecánica,5,
+119,1115652372,Vendo Renault symbol expresión,$ 18.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300104', 'ADMIN_LEVEL_3_name': 'Barrios Unidos', 'SUBLOCALITY_LEVEL_1_id': '5304041', 'SUBLOCALITY_LEVEL_1_name': 'Santa Sofía'}","Vendo Renault expresión 1.4, automático, en excelentes condiciones, vidrios polarizados, radio pantalla Bluetooth, Android, cámara de reversa, llantas 70% interior como nuevo, placa impar.",RENAULT,SYMBOL FI,Expression AT 1.4L 16V AA,2007,118.000 km,Usado,Gasolina,Gris,Automática,4,
+120,1114566874,MAZDA CX-5 TOURING AT MOD 2020,$ 115.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007005', 'ADMIN_LEVEL_1_name': 'Norte de Santander', 'ADMIN_LEVEL_3_id': '4069313', 'ADMIN_LEVEL_3_name': 'Cúcuta', 'SUBLOCALITY_LEVEL_1_id': '5307634', 'SUBLOCALITY_LEVEL_1_name': 'Terranova'}","INFORMACIÓN ADICIONAL:
+• Excelente estado de conservación
+• Placa par de Villa del Rosario
+• SOAT hasta el 27 de junio del 2022
+• Unico Dueño
+
+
+Se gestiona su credito bancario 
+Se recibe vehiculo de menor valor
+
+Ejecutiva comercial Claudia Garzon",MAZDA,CX5,FL Touring AT 2.5L 188HP TC CR RA17,2020,38.209 km,Usado,Gasolina,Blanco,Automática,4,
+121,1115624306,Kia New Rio 2019,$ 58.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303716', 'SUBLOCALITY_LEVEL_1_name': 'El Limonar'}","Kia New Río Vibrant 
+Modelo 2019 
+Aire acondicionando 
+V eléctricos en 4 puertas 
+Espejos retrovisores eléctricos 
+Rines de lujo 
+Doble Airbag 
+Frenos abs 
+Comando de radio al timón 
+Caja mecánica de 6 velocidades 
+Cámara de reversa 
+Dirección electroasistida
+Alarma 
+Bloqueo central 
+Llantas nuevas 
+Pantalla flotante 
+Cámara de reversa 
+Comando de radio al timón 
+44.000 km 
+Impecable estado 
+Soat 30 nov 2022 
+58.800.000",KIA,RIO SEDAN,Emotion AT 1.4L RA15,2019,44.000 km,Usado,Gasolina,Blanco,Mecánica,4,
+122,1115502064,Ford fiesta se mecanico 2015,$ 40.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302474', 'SUBLOCALITY_LEVEL_1_name': 'San Francisco'}","Automotores el progreso tiene para ti:
+
+Ford fiesta se
+Modelo 2015
+Motor 1.6 cc gasolina 
+Trasmisión manual 
+72 mil km
+6 airbag 
+Comandos en él timon 
+Vidrios eléctricos 
+Espejos retrovisores eléctricos 
+Placa terminada en 2",FORD,FIESTA,"Sportback SE MT 1.6L RA 15"" 4P 4X2",2015,72.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+123,1115586584,BMW X1 2.0 DIESEL 2010,$ 52.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302665', 'SUBLOCALITY_LEVEL_1_name': 'Jardín'}","BMW X1 Drive 
+Modelo : 2010 
+Motor : 2.000 Turbo / 4x4 Diésel 
+Kilometraje : 158.000 Kms 
+Color : Azul metalizado 
+Excelente estado / Documentos al día / dos dueños",BMW,X1,E84 xDrive20d TP 2.0L DSL 177HP 4X4,2010,158.000 km,Usado,Diesel,Azul,Automática,5,4x4
+124,1115652362,SE VENDE CARRO HYUNDAI I25 MODELO 2016,$ 42.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300118', 'ADMIN_LEVEL_3_name': 'Teusaquillo', 'SUBLOCALITY_LEVEL_1_id': '5306966', 'SUBLOCALITY_LEVEL_1_name': 'Centro Administrativo Occidental - Can'}","Se vende Carro Hyundai I25 hatchback modelo 2016 color gris perla con 65.600km, rines de lujo, vidrios eléctricos, retrovisores eléctricos, cámara de reversa, radio táctil, llantas nuevas, Soat vence en Mayo de 2023, tecnomecanica hasta Agosto de 2022.
+No tiene aire acondicionado.",HYUNDAI,I25 ACCENT,Otros,2016,65.600 km,Usado,Gasolina,Gris,,5,
+125,1115652347,Renault Logan dinámic 2016/83.000 kms.,$ 31.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303766', 'SUBLOCALITY_LEVEL_1_name': 'La Cascada'}","Renault Logan dinámic 2016/83.000 kms. Aire acondicionado, 4 v.e. dirección hidráulica, retrovisores eléctricos, abs, airbags, excelente estado placas buga",RENAULT,LOGAN,"Dynamique MT 1.6L 8V AA 2AB ABS EE 4VE RA 15"" 4X2",2016,83.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+126,1115652321,VENDO SUZUKI SWIFT 2019,$ 42.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301619', 'SUBLOCALITY_LEVEL_1_name': 'Villa Carolina'}","Suzuki swift 2019
+48.000km 
+Luces led y pantalla dvd Android 
+Llantas nuevas 
+Cojíneria en cuero de lujo",SUZUKI,SWIFT,"Dzire MT 1.2L RA 15"" 4P IND 4X2",2019,48.000 km,Usado,Gasolina,Plateado,Mecánica,4,4x2
+127,1115652317,Vendo mazda precio negociable,$ 32.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301240', 'SUBLOCALITY_LEVEL_1_name': 'Centro Administrativo'}",Vendo Mazda en muy buen estado,MAZDA,B2200,B2200 MT 2.2L 4X2,1996,55.000 km,Usado,Gasolina y Gas,Rojo,Mecánica,2,4x2
+128,1115652304,Kia Picanto Xtreme SPORT .,$ 31.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301682', 'SUBLOCALITY_LEVEL_1_name': 'Fundadores'}",FULL equipo,KIA,PICANTO,1.25L 2AB ABS AA RC13,2012,130.000 km,Usado,Gasolina,Gris,Mecánica,5,
+129,1115652295,VENDO FOR F150 4*4,$ 42.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306531', 'SUBLOCALITY_LEVEL_1_name': 'Niza Norte - Ocales De Niza'}",FOR F150 AUTOMÁTICA DOBLE Y MAJO DIRECCIÓN HIDRÁULICA VIDRIOS Y ESPEJOS ELÉCTRICOS MOTOR 5800CC MOD 93 PRECIO NEGOCIABLE,FORD,F150,XL AT 5.8L 210HP SA PU VEN 4X4,1993,211.000 km,Usado,Gasolina y Gas,Blanco,,2,4x4
+130,1115652294,Vendo Chevrolet Tracker excelente estado,$ 63.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300110', 'ADMIN_LEVEL_3_name': 'Fontibón', 'SUBLOCALITY_LEVEL_1_id': '5305181', 'SUBLOCALITY_LEVEL_1_name': 'Torres De Modelia'}","Vendo Chevrolet Tracker,  nuevecita con poco uso, con techo corredizo",CHEVROLET,TRACKER,LT TP 1.8L 6AB CT 5P 4X2,2017,26.000 km,Usado,Gasolina,Anaranjado,Automática,4,4x2
+131,1115652269,Renault Logan Dynamic,$ 31.700.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307092', 'SUBLOCALITY_LEVEL_1_name': 'Cedro Narváez'}","Renault Logan Dynamic, el más full equipo de todos.
+4 Vidrios eléctricos, espejos eléctricos, doble air bag conductor y pasajero.
+Aire acondicionado, bloqueo central, ABS, comandos radio en el timón.
+Rines de lujo, radio Bluetooth, apoya cabezas traseros, cinturones graduables en altura, exploradoras, silla conductor graduable en altura, placas de Bogotá.
+Papeles al día , impuesto 2022 pagos, listo para transpaso.",RENAULT,LOGAN,"Dynamique MT 1.6L 8V AA 2AB ABS EE 4VE RA 15"" 4X2",2014,106.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+132,1114342702,Hermoso dodge dart,$ 10.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007009', 'ADMIN_LEVEL_1_name': 'Tolima', 'ADMIN_LEVEL_3_id': '4069484', 'ADMIN_LEVEL_3_name': 'Ibagué', 'SUBLOCALITY_LEVEL_1_id': '5303376', 'SUBLOCALITY_LEVEL_1_name': 'Montemadero'}",Dodge dart modelo 79 tiene seguro tecno e impuestos al dia .sin traspaso.que hay para cambiar,DODGE,Dart,Otros,1979,230.000 km,Usado,Gasolina,Gris,Mecánica,4,
+133,1115652222,Toyota Hilux,$ 98.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305439', 'SUBLOCALITY_LEVEL_1_name': 'Marsella'}","TOYOTA HILUX 
+Modelo 2014
+MORTOR 2.5 DIÉSEL 
+4x4 
+Llantas nuevas  
+108 km 
+Vidrios eléctricos 
+Radio pantalla cabeceros 
+Peritable asegurable 
+Excelentes condiciones 
+Mantenimientos recién hechos 
+Papeles al día lista para traspaso
+VENDO O PERMUTO",TOYOTA,HILUX,IMV MT 2.5L TD 100HP AA 2AB ABS DC 4X4,2014,113.000 km,Usado,Diesel,Blanco,Mecánica,4,4x4
+134,1115652195,Chevrolet Aveo  Emotion 2010,$ 23.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302221', 'SUBLOCALITY_LEVEL_1_name': 'El Palmar'}","Se vende chevrolet Aveo Emotion 2010 en buen estado, 3 dueño, SOAT Y TECNO hasta diciembre del 2022.",CHEVROLET,AVEO EMOTION,Otros,2010,135.000 km,Usado,Gasolina,Azul,Mecánica,5,
+135,1115652184,Renault Stepway Modelo 2011,$ 34.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007014', 'ADMIN_LEVEL_1_name': 'Cundinamarca', 'ADMIN_LEVEL_3_id': '4069694', 'ADMIN_LEVEL_3_name': 'Funza', 'SUBLOCALITY_LEVEL_1_id': '5308560', 'SUBLOCALITY_LEVEL_1_name': 'Hato Casa Blanca'}","Stepway, con poco kilometraje, vidrios eléctricos x 4, aire acondicionado, interior en muy buen estado.",RENAULT,STEPWAY,MT 1.6L 16V 2AB BT 4X2,2011,69.000 km,Usado,Gasolina,Beige,Mecánica,5,4x2
+136,1115652166,Camioneta en buen estado,$ 41.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007014', 'ADMIN_LEVEL_1_name': 'Cundinamarca', 'ADMIN_LEVEL_3_id': '4069688', 'ADMIN_LEVEL_3_name': 'Soacha', 'SUBLOCALITY_LEVEL_1_id': '5308645', 'SUBLOCALITY_LEVEL_1_name': 'Arco Iris'}",Camioneta en buen estado soat y  técno hasta diciembre,FORD,ECOSPORT,"FL SE MT 2.0L 4VE RA 15"" 4X2",2013,110.000 km,Usado,Gasolina,Negro,Mecánica,5,4x2
+137,1115652143,Carro deportivo,$ 39.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300111', 'ADMIN_LEVEL_3_name': 'Kennedy', 'SUBLOCALITY_LEVEL_1_id': '5305439', 'SUBLOCALITY_LEVEL_1_name': 'Marsella'}","KIA KOUP 
+MOTOR 1.6 
+Mecanico 
+Papeles al día listo para traspaso 
+Body kit 
+Rines 18 
+Llantas nuevas 
+Radio pantalla 
+Spoiler 
+Luces led 
+Excelentes condiciones",KIA,Cerato Koup,Otros,2011,130.000 km,Usado,Gasolina,Negro,Mecánica,2,
+138,1115652142,Vendo renault kwid,$ 36.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301505', 'SUBLOCALITY_LEVEL_1_name': 'El Recreo'}",Vendo Renault Kwid mod 2020 airbags 4 frenos Abs dirección electrónica,RENAULT,KWID,Zen 1.0L MT DA RC 5P 4X2,2020,51.000 km,Usado,Gasolina,Plateado,Mecánica,5,4x2
+139,1115652138,Sandero 2016,$ 36.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069356', 'ADMIN_LEVEL_3_name': 'Girón', 'SUBLOCALITY_LEVEL_1_id': '5303101', 'SUBLOCALITY_LEVEL_1_name': 'Villa Isla'}","Sandero 2016 polarizado, alarma, exploradoras, parrilla",RENAULT,SANDERO,Authentique MT 1.6L 8V AA 4X2,2016,180.000 km,Usado,Gasolina,Plateado,Mecánica,5,4x2
+140,1115052774,Kia Rio Stylus modelo 2016.,$ 31.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303773', 'SUBLOCALITY_LEVEL_1_name': 'La Hacienda'}","¡Somos UsadosOnline, especialistas en Compra y Venta de vehículos usados!
+
+ ¿Por qué comprar en UsadosOnline?
+
+Nuestros vehículos están REACONDICIONADOS, esto significa que hemos mejorado por mucho la condición del carro desde que lo compramos hasta que lo ponemos en venta, para que tengas siempre un carro en condiciones de un Seminuevo.
+
+Además, te ofrecemos 1 AÑO DE GARANTIA o 20.000 Kms, para que tu decisión de comprar tu Seminuevo, ¡sea más fácil!
+
+ En UsadosOnline, todos nuestros vehículos se encuentran con traspaso cerrado a nombre de nuestra empresa, no trabajamos con TRASPASOS ABIERTOS. Así podrás hacer una compra con mayor tranquilidad y sentirte más seguro.
+
+Para hacerte la vida más fácil, recibimos tus pagos en consignación, transferencia o PSE. Además, recibimos tarjetas de crédito, ¡te enviaremos un Link de pago para que lo hagas desde tu teléfono!
+
+DOCUMENTACION Y TRAMITE: Tendremos la documentación lista para tomar tu firma para cuando llegues a nuestra sede. En el caso de tratarse de una placa de Cali, haremos el traspaso en 24 Hrs Hábiles. En el caso de otras ciudades, dependerá de cada secretaria de tránsito, sin embargo, haremos un seguimiento permanente.",KIA,RIO SEDAN,Stylus 1.5L AA,2016,110.000 km,Usado,Gasolina,Gris,Mecánica,4,
+141,1115088843,KIA SELTOS ZENITH 2023,$ 115.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306602', 'SUBLOCALITY_LEVEL_1_name': 'Potosí Sector I'}","CONTAMOS CON LA MEJOR GARANTIA DEL MERCADO 7 AÑOS O 150 MIL KILOMETROS.
+
+Motor 1.6L con 121 hp de potencia y 151 Nm de torque, Transmisión automática de 6 velocidades, Dirección MPDS (asistida eléctricamente), Rin 17"" de lujo bitono - llantas 205 / 45 R17, ABS (Sistema antibloqueo de freno), Freno de Disco en las 4 Ruedas, Apertura de, Puertas por A proximidad, 6 Airbags, Delanteros para piloto y copiloto, cortina y laterales, Cámara de visión trasera, Bloqueo central, SunRoof, Control automático de, luces (Auto light), Sistema de anclaje para, silla de niños (Isofix), Eleva vidrios eléctricos delanteros y traseros y para el conductor adicionalmente, Volante ajustable en altura y profundidad, Acabados interiores y, exteriores en negro brillante, Asiento, conductor con ajuste manual en altura, Clúster 3.5"" LCD con computador a abordo, Controles de audio en el volante, Centro de Entretenimiento con pantalla de 8 pulgadas, Conectividad Apple Car Play - Android Auto inalámbrico, Volante y palanca de cambios forrados en cuero., AUX & USB & Bluetooth, 4 Parlantes 2tweeters, Espejos laterales con ajuste eléctrico, Exploradoras, Aire acondicionado automático
+Capacidad de baúl 433 L.
+
+PLANDES DE FINANCIACION HASTA EL 100%.
+
+Plan tradicional hasta 84 meses.
+
+Plan 14 cuotas hasta 84 meses.
+
+Periodo de gracia pague en el 2022.
+
+Plan 50% 50%.
+
+Plan héroes.
+
+RECIBIMOS SU VEHICULO USADO SIN IMPORTAR LA MARCA AL MEJOR PRECIO DEL MERCADO.
+
+Aplica condiciones y restricciones.",KIA,Otros Modelos,Otros,2022,0 km,Nuevo,Gasolina,Rojo,Automática,5,
+142,1115514693,Mercedes Benz C200 Automático Turbo Mod 2012,$ 63.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069632', 'ADMIN_LEVEL_3_name': 'Manizales', 'SUBLOCALITY_LEVEL_1_id': '5301662', 'SUBLOCALITY_LEVEL_1_name': 'Cervantes'}","• 93.000 kms
+• Aire Acondicionado 
+• Dirección Hidráulica 
+• Vidrios Eléctricos 
+• Espejos Eléctricos 
+• Rines de Lujo 
+• Exploradoras 
+• Airbags
+• Frenos ABS 
+• Sunroof
+• controles de Radio en Timón 
+• Asistencia de Arranque en Pendiente 
+• Sensores de Proximidad 
+• Cámara de Reversa 
+• Sensores de Lluvia 
+• Sensores de Luces",MERCEDES BENZ,C 200,FL W204 CGI Avantgarde TP 1.8L T 184HP 4P 4X2,2012,93.000 km,Usado,Gasolina,Blanco,Automática Secuencial,4,4x2
+143,1113860462,NISSAN SENTRA,$ 34.980.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",NISSAN,SENTRA,E AT 2.0L 2AB FE 4X2,2013,103.000 km,Usado,Gasolina,Gris,Automática,4,4x2
+144,1115652136,Se vende carro,$ 12.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007014', 'ADMIN_LEVEL_1_name': 'Cundinamarca', 'ADMIN_LEVEL_3_id': '4069705', 'ADMIN_LEVEL_3_name': 'El Colegio'}",Se vende hermoso carro todo al dia,MITSUBISHI,LANCER,Otros,1997,180.000 km,Usado,Gasolina,Azul,Mecánica,5,
+145,1115652135,VENDO CHEVROLET GRAND VITARA SPORTS,$ 46.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301222', 'SUBLOCALITY_LEVEL_1_name': 'Boston'}","VENDO CHEVROLET GRAND VITARA SPORT 
+TRASMISION : MECANICO
+VERSION : LA MAS FULL ,
+EXPLORADORAS,RETROVISORES ELETRICOS ,VIDRIOS ELETRICOS ,AIRE ACONDICIONADO
+COLOR : BLANCO
+AUDIO : PANTALLA 7 PULGADA
+AYUDAS : CAMARA DE REVERSA
+SEGURIDAD: ALARMA
+POLARIZADO : NANOCERAMICA
+MATRICULA: MEDELLÍN
+LLANTAS : AL 80%
+ESTADO: COMO NUEVO 
+ESTRUCTURA: ORIGINAL
+MATRICULA :MEDELLIN
+MODELO: 2012
+KILÓMETROS:112.500
+DOCUMENTOS  : VIGENTES ASTA JULIO 2022
+MAS INFORMACIÓN: WHATSAPP",CHEVROLET,GRAND VITARA,1.6L 94HP 3P 4X4,2012,112.500 km,Usado,Gasolina,Blanco,Mecánica,3,4x4
+146,1115652128,"Aveo gt 1.6, full equipo excelentes condiciones",$ 24.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304834', 'SUBLOCALITY_LEVEL_1_name': 'El Dorado Industrial - La Esperanza'}","Color azul, sunruf, ventanas eléctricas, equipo de sonido digital. Renovación de vehículo",CHEVROLET,AVEO COUPE,GTI 1.6L AA,2009,136.000 km,Usado,Gasolina,Azul,Mecánica,3,
+147,1115652103,SE VENDE FORD FIESTA MODELO 2013 76MIL KIL,$ 36.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306778', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Altos De San Jorge'}","Vehículo modelo 2013 en perfecto estado de pintura, full de llantas, cogineria en muy buen estado, vidrios polarizados, 7 airbag, 4 vidrios y retrovisores eléctricos, altura de timón, seguro y tecno para finales de diciembre, sin reclamaciones, segundo dueño.",FORD,FIESTA,"FL Sportback SE MT 1.6L CT RA 15"" 4P 4X2",2013,76.000 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+148,1115652099,Logan 1.6 2008,$ 15.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306811', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización El Moral II'}",Unico dueño. Bloqueo central. Alarma. Tiene detalles. Precio negociable,RENAULT,LOGAN,Expression ND MT 1.6L SA 4X2,2008,203.000 km,Usado,Gasolina,Plateado,Mecánica,4,4x2
+149,1115652086,Logan 2007,$ 15.300.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069123', 'ADMIN_LEVEL_3_name': 'Envigado', 'SUBLOCALITY_LEVEL_1_id': '5301116', 'SUBLOCALITY_LEVEL_1_name': 'Uribe Ángel'}","Vendo Logan 2007, 146800 kms, vidrios eléctricos, frenos ABS, doble airbag, tecnicomecánica hasta agosto, soat hasta noviembre.",RENAULT,LOGAN,,2007,146.800 km,Usado,Gasolina,Gris,Mecánica,4,
+150,1115652056,Hermosa cx5,$ 110.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007003', 'ADMIN_LEVEL_1_name': 'Atlántico', 'ADMIN_LEVEL_3_id': '4069245', 'ADMIN_LEVEL_3_name': 'Barranquilla', 'SUBLOCALITY_LEVEL_1_id': '5301620', 'SUBLOCALITY_LEVEL_1_name': 'Villa Country'}","liso para traspaso
+impuesto pago 2022
+bateria nueva con 15 meses de garantia
+tapetes de invierno
+camara y sensores de reversa
+negociacion directa",MAZDA,CX5,"Touring TP 2.0L 153HP CR RA 17"" 4X2",2019,38.000 km,Usado,Gasolina,Blanco,Automática,5,4x2
+151,1115652041,EN VENTA VEHÍCULO  CHEVROLET MONZA 2.0,$ 3.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007014', 'ADMIN_LEVEL_1_name': 'Cundinamarca', 'ADMIN_LEVEL_3_id': '4069693', 'ADMIN_LEVEL_3_name': 'Chía', 'SUBLOCALITY_LEVEL_1_id': '5308578', 'SUBLOCALITY_LEVEL_1_name': 'Tiquiza'}","EN VENTA VEHÍCULO
+
+CHEVROLET MONZA 
+2.0 MECÁNICO 
+MODELO 90
+COLOR ROJO FUEGO
+4 PUERTAS
+PARTICULAR SEDAN 
+UNICO DUEÑO 
+
+Importante: El vehículo no tiene soat, ni tecnomecanica. Adicionalmente debe impuestos de rodamiento en la ciudad de Bogota.
+
+VALOR: $3.800.000  / NEGOCIABLES",CHEVROLET,Monza,Otros,1990,0 km,Usado,Gasolina,Rojo,Mecánica,4,
+152,1115652040,Vendo o permuto,$ 22.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300116', 'ADMIN_LEVEL_3_name': 'Santa Fé', 'SUBLOCALITY_LEVEL_1_id': '5306114', 'SUBLOCALITY_LEVEL_1_name': 'La Capuchina'}",Vendo o permuto por automovil de mi interes pick- up mazda b2000 1990 papeles para finales de octubre rines de lujo lista para traspaso,MAZDA,B2000,MT 2.0L 4X2,1990,111.111 km,Usado,Gasolina,Blanco,Mecánica,2,4x2
+153,1115652029,Renault clio style 2017,$ 31.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306414', 'SUBLOCALITY_LEVEL_1_name': 'Karimagua Conejera'}","VENDO Renault Clio style MT 1.2 MODELO 2017, con 69,5 kilómetros, único dueño, perfecto estado interno y externo, aire acondicionado, vidrios eléctricos delanteros, airbags, cojineria en cuero, llantas al 80% de vida útil, rines de lujo, documentos al día",RENAULT,CLIO,Otros,2017,69.500 km,Usado,Gasolina,Negro,Mecánica,4,
+154,1115652026,RENAULT STYLE,$ 32.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069355', 'ADMIN_LEVEL_3_name': 'Floridablanca', 'SUBLOCALITY_LEVEL_1_id': '5302842', 'SUBLOCALITY_LEVEL_1_name': 'Centro Comercial Cañaveral'}","DOCUMENTOS AL DIA
+BATERIA NUEVA
+LLANTAS NUEVAS",RENAULT,CLIO,F III Style MT 1.2L AA DH 4X2,2016,50.770 km,Usado,Gasolina,Blanco,Mecánica,5,4x2
+155,1115652025,Vendo hermoso Montero Mitsubishi,$ 39.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069082', 'ADMIN_LEVEL_3_name': 'Palmira'}",Se vende Montero Mitsubishi modelo 2002 fuull llantas aire acondicionado vidrios eléctricos alarma bloqueo .SOAT hasta noviembre 2022,MITSUBISHI,MONTERO,V11 MT 2.4L AA 3P 4X4,2002,202.500 km,Usado,Gasolina,Beige,Mecánica,3,4x4
+156,1115652017,Hermoso chevrolet coupe deluxe,$ 25.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307147', 'SUBLOCALITY_LEVEL_1_name': 'La Calleja'}","Hermoso clasico chevrolet coupe deluxe , super precio y oportunidad. venta por viaje.",CHEVROLET,Otros Modelos,Otros,1950,0 km,Usado,Gasolina,Vinotinto,Mecánica,3,
+157,1115652014,Se vende taxi 2008,$ 84.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304909', 'SUBLOCALITY_LEVEL_1_name': 'La Salina'}","Se vende taxi 2008 en buen estado, 680.000 km en Bogotá",HYUNDAI,ATOS,,2008,500.000 km,Usado,Gasolina,Amarillo,Mecánica,5,
+158,1115652013,Se vende spark en óptimas condiciones,$ 20.200.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300119', 'ADMIN_LEVEL_3_name': 'Tunjuelito', 'SUBLOCALITY_LEVEL_1_id': '5307021', 'SUBLOCALITY_LEVEL_1_name': 'Parque El Tunal'}","Vendo spark placas de Bogotá, AA, poco uso.",CHEVROLET,SPARK,LS 1.0L AA,2009,78.300 km,Usado,Gasolina,Gris,Mecánica,5,
+159,1115652002,CHEVROLET SAIL LS VERSION 1MILLION,$ 31.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306532', 'SUBLOCALITY_LEVEL_1_name': 'Niza Norte - Sotileza'}","Chevrolet Sail LS versión One Million-Unlimited del 2015. 
+Color Gris Galápago 
+Motor 1.4, mecánico 
+No tiene A.C 
+Vidrios eléctricos en las 4 puertas
+Retrovisores con graduación eléctrica 
+Exploradoras, rines de lujo
+Tiene cerca de 42.000 km (un poco menos)
+Placa Par",CHEVROLET,SAIL SEDAN,LS 1.4L SA,2015,42.000 km,Usado,Gasolina,Gris,Mecánica,5,
+160,1115629608,CITROEN C-LYSEE SHINE MT,$ 52.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306531', 'SUBLOCALITY_LEVEL_1_name': 'Niza Norte - Ocales De Niza'}","FINANCIAMOS 100%, RECIBIMOS USADO",CITROEN,C-ELYSEE,Shine MT 1.6L 4AB R16 4X2,2018,33.362 km,Usado,Gasolina,Gris,Mecánica,4,4x2
+161,1115603264,Nissan march active 1.6 2020,$ 44.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303773', 'SUBLOCALITY_LEVEL_1_name': 'La Hacienda'}","Hermoso
+Placas cali 
+Full equipo",NISSAN,MARCH,Active MT 1.6L AA 4X2,2020,17.000 km,Nuevo,Gasolina,Gris,Mecánica,5,4x2
+162,1115438998,VOLVO XC60,$ 89.990.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300120', 'ADMIN_LEVEL_3_name': 'Usaquén', 'SUBLOCALITY_LEVEL_1_id': '5307239', 'SUBLOCALITY_LEVEL_1_name': 'Santa Bárbara Occidental'}","Financiamos hasta el 90% del valor del vehículo hasta 60 meses, o directamente el 20%, letras mensuales. sujeto aprobación. Recibimos su vehículo usado en parte de pago. Garantía 100% de documentación. Recibimos todas las tarjetas débito o crédito. Aplican restricciones",VOLVO,XC60,T5 Summum AT 2.5L T 254HP SE CT TC RA18 4X4,2016,93.000 km,Usado,Gasolina,Blanco,Automática,5,4x4
+163,1113064489,Mercedes Benz C180 At 1.6 2018,$ 115.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302605', 'SUBLOCALITY_LEVEL_1_name': 'Centro'}","Tenemos los mejores autos usados y con financiación del 100%. 
+
+Descubre por medio de nuestra plataforma virtual, vehículos usados de las mejores marcas. Encuentra con nosotros acompañamiento en tu proceso de tomar la decisión de adquisición de un vehículo, resaltando transparencia, tranquilidad, buena inversión, seguridad y  de calidad de compra.
+
+Beneficios:
+1. Pública tu carro gratis 
+2. Plan 50/50, llévalo ahora y empieza a pagar en 12 y 18 meses 
+3. Concesionario 100% virtual
+4. Podrás llevarlo 100% a crédito Pregunta por crédito para vehículo, llévalo ahora empieza a pagar en 12 meses .Concesionario 100% virtual
+Asesoría. 100% personalizada
+Atención inmediata 24/7
+Publicación gratis.",MERCEDES BENZ,C 180,Otros,2018,12.000 km,Usado,Gasolina,Blanco,Automática,5,
+164,1115651991,Se vende Chevrolet Aveo 2012,$ 20.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069149', 'ADMIN_LEVEL_3_name': 'Guarne'}",Si está interesado solo WhatsApp,CHEVROLET,AVEO,Otros,2012,97.000 km,Usado,Gasolina,Gris,Mecánica,5,
+165,1115651961,carro campero,$ 17.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303927', 'SUBLOCALITY_LEVEL_1_name': 'Terrón Colorado'}","el carro esta en buen estado es un campero todo terreno vidrios eléctricos, dirección hidráulica, seguro y tecno mecánica  hasta  agosto",KIA,SPORTAGE,Otros,1994,271.000 km,Usado,Gasolina,Azul,Mecánica,5,
+166,1115651941,Se vende hermoso twingo,$ 15.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007015', 'ADMIN_LEVEL_1_name': 'Quindío', 'ADMIN_LEVEL_3_id': '4069804', 'ADMIN_LEVEL_3_name': 'Armenia', 'SUBLOCALITY_LEVEL_1_id': '5302002', 'SUBLOCALITY_LEVEL_1_name': 'Plaza De Bolívar'}",Se vende twingo modelo 2008 color azul llantas nuevas rines de lujo hace 3 meses se le cambió la correa de repartición motor en excelente estado alarma de bloqueo buen sonido  interesados llamar,RENAULT,TWINGO,FI U Authentique 1.2L 16V AA,2008,146.833 km,Usado,Gasolina,Azul,Mecánica,2,
+167,1115651921,VENDO HERMOSO SAIL,$ 27.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300108', 'ADMIN_LEVEL_3_name': 'Ciudad Bolívar', 'SUBLOCALITY_LEVEL_1_id': '5304773', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Villa Vista - San Cayetano'}","Carro en muy buen estado, Kilómetraje ORIGINAL,Radio Original, llantas al 75%, cogineria en tela en muy buen estado,Soat para diciembre, tecno para enero 2023,impuestos pagos.listo para traspaso IMPUESTOS PAGOS 2022.",CHEVROLET,SAIL SEDAN,LS 1.4L AA,2014,105.600 km,Usado,Gasolina,Gris,Mecánica,4,
+168,1115651842,Venta de sandero,$ 40.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301302', 'SUBLOCALITY_LEVEL_1_name': 'La Candelaria'}","Sandero, blanco glacial, básico, único dueño, 55.000km",RENAULT,SANDERO,Otros,2019,55.000 km,Usado,Gasolina,Blanco,Mecánica,4,
+169,1115219214,Mazda 2 como nuevo,$ 37.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302750', 'SUBLOCALITY_LEVEL_1_name': 'Puerta Del Sol'}",Completo Mazda 2 con soat y técnico mecánico hasta dic-22. Llantas y batería nueva (14 meses de garantía) luces leds. Listo para traspaso. RECIBO USDT (crypto),MAZDA,2 HATCHBACK,15HAP AT 1.5L 2AB ABS RA15 JAP,2013,104.000 km,Usado,Gasolina,Gris,Mecánica,5,
+170,1115651774,Vendo luv caribe,$ 13.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069124', 'ADMIN_LEVEL_3_name': 'Itagüí', 'SUBLOCALITY_LEVEL_1_id': '5301172', 'SUBLOCALITY_LEVEL_1_name': 'Santa Catalina'}","Muy buen estado es motor 2000 modelo 1985 4x4,todo le funciona súper bien lo único que tiene malo es la botella de la doble que agarras las llantas delanteras pero yo lo entrego totalme funcional,se entrega con papales nuevos para poder hacer traspaso.nada de cambios",CHEVROLET,LUV,Otros,1985,0 km,Usado,Gasolina,Azul,Mecánica,2,
+171,1115651772,Se vende todo en muy buen estado,$ 34.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303806', 'SUBLOCALITY_LEVEL_1_name': 'Los Guayacanes'}",Se vende sail LTZ 2017 ful,CHEVROLET,SAIL,LTZ Sport MT 1.4L AA 2AB ABS CT 5P 4X2,2017,51.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+172,1115651771,Vendo Jetta clásico europa 2.0,$ 41.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300104', 'ADMIN_LEVEL_3_name': 'Barrios Unidos', 'SUBLOCALITY_LEVEL_1_id': '5304041', 'SUBLOCALITY_LEVEL_1_name': 'Santa Sofía'}","Vendo Jetta clásico europa  modelo 2014, con solo 80mil kilómetros originales, sillas con forros en cuero, mecánico, 2.0, rines de lujo perfil 18, cámara de reversa , radio pantalla bluetooth, android, exploradoras delanteras con 3 secuencias de luces, bombillos delanteros led, espoiler trasero., vidrios polarizados.
+Color rojo tornado, papeles al día para traspaso inmediato.
+Llantas en un 80%. Espejos eléctricos.",VOLKSWAGEN,JETTA,Europa MT 2.0L 4X2,2014,81.000 km,Usado,Gasolina,Rojo,Mecánica,4,4x2
+173,1115651764,Captiva 2011 sport 4x2 full equipo,$ 42.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300108', 'ADMIN_LEVEL_3_name': 'Ciudad Bolívar', 'SUBLOCALITY_LEVEL_1_id': '5304715', 'SUBLOCALITY_LEVEL_1_name': 'Rincón De La Valvanera'}","Captiva sport 2011 full equipo 82.000 km originales, luces altas y medias y exploradoras turbo led. Radio Android original, sunroof cojineria en cuero en muy buenas condiciones planta y sonido cabeceros de video 9'' llantas en muy buen estado, acepto peritaje...",CHEVROLET,CAPTIVA,Sport AT 2.4L 5P 4X2,2011,82.000 km,Usado,Gasolina,Gris,Automática,5,4x2
+174,1115651750,vendo camión 300,$ 25.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069186', 'ADMIN_LEVEL_3_name': 'San Roque'}",camión dogde 300 troques de 500 con bajo  caja de Nissan 180,Otro,Otros,,1980,0 km,Usado,Diesel,Blanco,Mecánica,2,
+175,1115651718,"BUENA ENERGÍA, BUEN ESTADO, BUEN PRECIO",$ 60.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069355', 'ADMIN_LEVEL_3_name': 'Floridablanca', 'SUBLOCALITY_LEVEL_1_id': '5302891', 'SUBLOCALITY_LEVEL_1_name': 'La Pera'}","Perfecto estado, 5 puertas, cojineria en cuero, zoom roof, poco kilometraje, automatica",FORD,ESCAPE,XLS MT 2.0L 4X4,2013,66.400 km,Usado,Gasolina,Gris,Automática Secuencial,5,4x4
+176,1115651716,Renaul clio dynamique 1400cc,$ 18.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301339', 'SUBLOCALITY_LEVEL_1_name': 'Las Playas'}","Renaul clio modelo 2007 en buen estado,103.000 kilómetros, radio Pionner con pantalla, ,amortiguadores delanteros nuevos. correa y bomba de agua recién cambiada.(Precio negociable)",RENAULT,CLIO,F II Dynamique Mode MT 1.4L 4X2,2007,103.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+177,1114890578,Ford fiesta titanium mecanico,$ 47.300.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303673', 'SUBLOCALITY_LEVEL_1_name': 'Centenario'}","Caja mecánica , llantas delanteras nuevas , batería nueva , impuestos pagos , En muy buen estado 
+Cocineros de cuero , techo corredizo, sensor de aire llantas , etc , la versión más full",FORD,FIESTA HATCHBACK,Titanium 1.6L CT RA16,2016,83.000 km,Usado,Gasolina,Gris,Mecánica,5,
+178,1115651707,Vendo hermoso Spark Life 2016,$ 26.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069120', 'ADMIN_LEVEL_3_name': 'Medellín', 'SUBLOCALITY_LEVEL_1_id': '5301397', 'SUBLOCALITY_LEVEL_1_name': 'San Antonio'}",Vendo hermoso Spark Life 2016. Está en excelente estado.,CHEVROLET,SPARK,Life Sport 1.0L AA,2016,54.000 km,Usado,Gasolina,Blanco,Mecánica,,
+179,1115651701,NISSAN TIIDA EMOTION 2008,$ 24.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007006', 'ADMIN_LEVEL_1_name': 'Santander', 'ADMIN_LEVEL_3_id': '4069353', 'ADMIN_LEVEL_3_name': 'Bucaramanga', 'SUBLOCALITY_LEVEL_1_id': '5302614', 'SUBLOCALITY_LEVEL_1_name': 'Ciudadela Real De Minas'}","NISSAN TIIDA EMOTION 2008, Excelente estado, papeles al día. verse con cita previa.
+El valor es negociable.",NISSAN,TIIDA SEDAN,"Emotion MT 1.8L 1AB EE 4VE RA 15"" 4X2",2008,94.000 km,Usado,Gasolina,Plateado,,5,4x2
+180,1115326296,Kia Picanto Ion R 1000cc 2014,$ 30.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007007', 'ADMIN_LEVEL_1_name': 'Risaralda', 'ADMIN_LEVEL_3_id': '4069440', 'ADMIN_LEVEL_3_name': 'Pereira', 'SUBLOCALITY_LEVEL_1_id': '5302365', 'SUBLOCALITY_LEVEL_1_name': 'Luis Alberto Duque'}","Aire acondicionado
+Pantalla
+Camara de reversa
+Vidrios eléctricos delanteros
+Rines de lujo
+Llantas nuevas
+Placa de Pereira
+Listo para traspaso",KIA,PICANTO,ION R MT 1.0L AA 4X2,2014,118.000 km,Usado,Gasolina,Negro,Mecánica,5,4x2
+181,1115615117,Ford Fiesta Titanium 2016,$ 48.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303945', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización Militar'}",Ford Fiesta Titanium 2016 Mecánico,FORD,FIESTA,"Sportback Titanium MT 1.6L CT RA 16"" 4P 4X2",2016,90.000 km,Usado,Gasolina,Vinotinto,Mecánica,4,4x2
+182,1115633803,VOLKSWAGEN AMAROK TRENDLINE DC 4X4,$ 106.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300103', 'ADMIN_LEVEL_3_name': 'Antonio Nariño', 'SUBLOCALITY_LEVEL_1_id': '5303978', 'SUBLOCALITY_LEVEL_1_name': 'Restrepo'}",Oportunidad recibimos vehiculo en parte de pago facilidades financiación 90% plazo 60 meses.,VOLKSWAGEN,AMAROK,Trendline MT 2.0L 2TD 2AB 4X4,2018,128.972 km,Usado,Diesel,Blanco,Mecánica,4,4x4
+183,1115189867,CHEVROLET ONIX LTZ 2017 HATCHBACK MOTOR 1.4 MECANICO GASOLINA,$ 45.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007005', 'ADMIN_LEVEL_1_name': 'Norte de Santander', 'ADMIN_LEVEL_3_id': '4069313', 'ADMIN_LEVEL_3_name': 'Cúcuta', 'SUBLOCALITY_LEVEL_1_id': '5307592', 'SUBLOCALITY_LEVEL_1_name': 'Carlos García Lozada'}",CHEVROLET ONIX LTZ 2017 HATCHBACK MOTOR 1.4 MECANICO GASOLINA,CHEVROLET,ONIX HATCHBACK,LTZ 1.4L 2AB ABS,2017,59.500 km,Usado,Gasolina,Gris,Mecánica,5,
+184,1115651694,Renault Duster 2.0L AT Dynamique,$ 48.900.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007017', 'ADMIN_LEVEL_1_name': 'Córdoba', 'ADMIN_LEVEL_3_id': '4069841', 'ADMIN_LEVEL_3_name': 'Montería'}","Vehículo en óptimas condiciones
+Placas de envigado 
+Listo para traspaso",RENAULT,DUSTER,"FL Dynamique AT 2.0L 2AB ABS EE 4VE RA 16"" 5P 4X2",2014,86.900 km,Usado,Gasolina,Blanco,Automática Secuencial,5,4x2
+185,1115651689,Renault sandero 1.6 Gt musique modelo 2011,$ 27.800.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007015', 'ADMIN_LEVEL_1_name': 'Quindío', 'ADMIN_LEVEL_3_id': '4069804', 'ADMIN_LEVEL_3_name': 'Armenia', 'SUBLOCALITY_LEVEL_1_id': '5302098', 'SUBLOCALITY_LEVEL_1_name': 'Villas De Palermo'}","Renault sandero 1.6 Gt musique modelo 2011, excelente estado,full equipo ( freno abs, 2 airbags, A/C, vidrios electricos 4 ptas, rines de aleacion 15"" originales.",RENAULT,SANDERO,GT MT 1.6L 8V FE 4X2,2011,112.000 km,Usado,Gasolina,Plateado,Mecánica,4,4x2
+186,1115651672,"Venta de Chevrolet Captiva en excelente condicion, precio negociable.",$ 34.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069085', 'ADMIN_LEVEL_3_name': 'Florida'}","Optimo estado, trae cojineria de cuero en excelente estado, techo corredizo, llantas en 70%, documentos al dia hasta marzo del 2023, se vende por montaje para negocio.",CHEVROLET,CAPTIVA,Sport AT 2.4L 5P CT 4X2,2011,142.000 km,Usado,Gasolina,Negro,Automática,5,4x2
+187,1115651668,Chevy C2 en buen estado,$ 15.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303881', 'SUBLOCALITY_LEVEL_1_name': 'San Cayetano'}",Carro en buenas condiciones.  Seguro y tecno hasta noviembre. Aire acondicionado. Rines de lujo y llantas en buen estado. Detalles como todo carro usado. Listo para traspaso,CHEVROLET,Chevy C2,Otros,2009,234.000 km,Usado,Gasolina y Gas,Azul,Mecánica,4,
+188,1115651661,BMW 230i 2006,$ 33.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306649', 'SUBLOCALITY_LEVEL_1_name': 'Riviera Norte'}","VENDO BMW 320i 2006 EN BUENAS CONDICIONES, RECIBO MENOR VALOS",BMW,320i,E90 AT 2.0L 150HP CT 4P 4X2,2006,130.000 km,Usado,Gasolina,Plateado,Automática,4,4x2
+189,1115651654,Venta Hyundai i10,$ 25.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069082', 'ADMIN_LEVEL_3_name': 'Palmira'}","Se vende hermoso Hyundai modelo 2013 en excelente estado, vidrios eléctricos, cojineria impecable, aire acondicionado",HYUNDAI,i10,Otros,2013,100.000 km,Usado,Gasolina,Gris,,5,
+190,1115651624,Vendo carro,$ 11.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300114', 'ADMIN_LEVEL_3_name': 'Rafael Uribe Uribe', 'SUBLOCALITY_LEVEL_1_id': '5305694', 'SUBLOCALITY_LEVEL_1_name': 'Arrayanes III, IV, Y V'}","Vendo carro Chevrolet alto modelo 2000, SOAT hasta mayo de 2023 y tecno hasta octubre de 2022, kilometraje 84.000 llantas nuevas, listo para traspaso. Precio negociable.",CHEVROLET,ALTO,1.0L AA,2000,84.000 km,Usado,Gasolina,Gris,Mecánica,4,
+191,1115651605,Nissan Almera,$ 27.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007014', 'ADMIN_LEVEL_1_name': 'Cundinamarca', 'ADMIN_LEVEL_3_id': '4069736', 'ADMIN_LEVEL_3_name': 'Gachetá'}","Vendo Nissan Almera
+UBICACIÓN GACHETA CUNDINAMARCA
+Modelo 2007
+Alarma nueva
+Bloqueo central 
+Eleva vidrios eléctrico en las 4 puertas
+Aire acondicionado
+88000 kilómetros originales
+Excelente estado tanto mecánica como de pintura
+Jamás chocado
+Llantas a un 50 ‰ de uso
+Dos llaves
+Todo le funciona",NISSAN,ALMERA,SLX AT 1.6L 4P 4X2,2007,88.000 km,Usado,Gasolina,Beige,Mecánica,4,4x2
+192,1115651599,Vendo volkswagen crossfox full equipo,$ 55.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303942', 'SUBLOCALITY_LEVEL_1_name': 'Urbanización La Flora'}","Vendo excelente volkswagen crossfox, es la mas equipada de la clase, con rines diamantados, techo corredizo, llantas nuevas, control arranque, vidrios eléctricos, todos los extras de la versión full",VOLKSWAGEN,CROSSFOX,Wild TP 1.6L 110HP 2AB ABS AA CT 4X2,2017,60.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+193,1115651587,Nissan Frontier NP300,$ 55.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300117', 'ADMIN_LEVEL_3_name': 'Suba', 'SUBLOCALITY_LEVEL_1_id': '5306355', 'SUBLOCALITY_LEVEL_1_name': 'El Rubí De San Bernardo'}","Se vende Nissan Frontier modeló 2012, 4x2, excelente estado, vehículo a gas y gasolina, gas de quinta generación, full llantas, piso de carrocería y puente en lámina placas públicas de Cota, no paga impuesto, no tiene pico y placa, Batería nueva, soat y tecnomecanica hasta Noviembre, revisión de gas reciente de 5 años, negociable.",NISSAN,FRONTIER,Otros,2012,209.949 km,Usado,Gasolina y Gas,Gris,Mecánica,2,
+194,1115651572,RENAULT SYMBOL ESTADO 10/10,$ 13.500.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007002', 'ADMIN_LEVEL_1_name': 'Antioquia', 'ADMIN_LEVEL_3_id': '4069122', 'ADMIN_LEVEL_3_name': 'Bello', 'SUBLOCALITY_LEVEL_1_id': '5301005', 'SUBLOCALITY_LEVEL_1_name': 'Hermosa Provincia'}","Un carro ajustado, excelente motor, nada le molesta, seguro un mes de comprado, tecnomecanica hasta el otro año, listo para traspaso.",RENAULT,SYMBOL FI,Expression 1.4L 16V AA,2005,128.000 km,Usado,Gasolina,Gris,Automática,5,
+195,1115651563,Nissan versa muy bien cuidado,$ 65.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304900', 'SUBLOCALITY_LEVEL_1_name': 'La Isabela I Etapa'}","Nissan versa 
+Modelo 2021
+Kilómetros 18000
+Seguro hasta el 03 del 2023
+Tecno hasta el 03 del 2023
+Seguro todo riesgo hasta 05 del 2023
+Todos los mantenimientos en la Nissan
+Impuestos al día 
+Tengo pago un mes de pico y placa está muy bien cuidado está casi nuevo",NISSAN,VERSA,Advance AT 1.6L 2AB ABS EE RA 4X2,2021,18.000 km,Usado,Gasolina,Gris,Mecánica,5,4x2
+196,1115272886,Cx7 2007 2.3 turbo,$ 39.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007000', 'ADMIN_LEVEL_1_name': 'Bogotá', 'ADMIN_LEVEL_3_id': '4300109', 'ADMIN_LEVEL_3_name': 'Engativá', 'SUBLOCALITY_LEVEL_1_id': '5304804', 'SUBLOCALITY_LEVEL_1_name': 'Bochica II'}","Cx7 2007 todos sus papeles al día, se admite peritaje donde quiera  ya que el vehículo se le hizo el mantenimiento de los 100 mil kilómetros cambios de correas, sincronización y mantenimiento del Turbo, cambio de líquidos caja de dirección, caja de cambios, donde todo está en correcto funcionamiento, tiene novedad en el cuero del volante pero nada que no se pueda arreglar en forrado, tiene ruedas Michellin cross recientes 3,600,000 costo, se vende por poco uso todo 100 % funcional. Se entrega con dos llaves originales",MAZDA,CX7,L30 TP 2.3L T 244HP 4X4,2007,114.000 km,Usado,Gasolina,Plateado,Automática,5,4x4
+197,1115651555,Captiva 2012 con poco kilometraje,$ 36.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303675', 'SUBLOCALITY_LEVEL_1_name': 'Chapinero'}","Vendo Captiva 2012 con papeles al día, poco kilometraje,",CHEVROLET,CAPTIVA,Sport AT 2.4L 5P 4X2,2012,105.000 km,Usado,Gasolina,Gris,Automática,5,4x2
+198,1115651537,Vendo chevrolet activ modelo 2019,$ 41.000.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007012', 'ADMIN_LEVEL_1_name': 'Caldas', 'ADMIN_LEVEL_3_id': '4069641', 'ADMIN_LEVEL_3_name': 'Viterbo'}",Vendo Chevrolet Activ modelo 2019 con 35 mil kilómetro papeles al día versión full placas de Pereira,CHEVROLET,SPARK ACTIV,1.2L 2AB ABS BT,2019,35.000 km,Usado,Gasolina,Plateado,Mecánica,5,
+199,1115651531,Vendo hermoso Renault en buen estado,$ 4.300.000,"{'COUNTRY_id': '1000001', 'COUNTRY_name': 'Colombia', 'ADMIN_LEVEL_1_id': '2007001', 'ADMIN_LEVEL_1_name': 'Valle del Cauca', 'ADMIN_LEVEL_3_id': '4069078', 'ADMIN_LEVEL_3_name': 'Cali', 'SUBLOCALITY_LEVEL_1_id': '5303781', 'SUBLOCALITY_LEVEL_1_name': 'La Selva'}","Hermoso Renault recién pintado cogineria en perfecto estado, precio negociable",RENAULT,Master,Otros,1989,0 km,Usado,Gasolina,Verde,Mecánica,4,
